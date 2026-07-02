@@ -1,0 +1,22 @@
+{
+  "countryId": "china",
+  "nameKo": "중국",
+  "nameEn": "China",
+  "nameLocal": "中国",
+  "priorityForJB": "B",
+  "relationshipType": [
+    "domestic_foreign_customer",
+    "chinese_language_marketing",
+    "high_sovereignty_symbol_sensitivity"
+  ],
+  "languages": [
+    "zh-CN",
+    "zh-TW",
+    "en"
+  ],
+  "businessRationale": "국내 중국어 고객·중국동포·관광/유학/송금 고객 및 지도·국기·주권 표현 리스크 관리",
+  "sourceRefs": [
+    "china_tibet_xinjiang_hk_reuters",
+    "china_taiwan_flag_reuters"
+  ]
+}

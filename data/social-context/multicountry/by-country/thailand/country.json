@@ -1,0 +1,21 @@
+{
+  "countryId": "thailand",
+  "nameKo": "태국",
+  "nameEn": "Thailand",
+  "nameLocal": "ประเทศไทย",
+  "priorityForJB": "B",
+  "relationshipType": [
+    "domestic_foreign_customer",
+    "thai_language_marketing",
+    "monarchy_buddhism_sensitivity"
+  ],
+  "languages": [
+    "th",
+    "en"
+  ],
+  "businessRationale": "국내 태국인 고객·송금·외국인 금융서비스 콘텐츠 및 왕실·불교·정치 상징 리스크 관리",
+  "sourceRefs": [
+    "thailand_lese_majeste_reuters",
+    "thailand_lese_majeste_guardian"
+  ]
+}

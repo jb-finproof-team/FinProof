@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chn-001",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "国庆节 카드 혜택 안내",
+    "productType": "card",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "국경절 금융 안내로 정상 맥락"
+  },
+  {
+    "id": "chn-002",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "대만 국기를 국가 목록에 단독 표시한 송금 광고",
+    "productType": "remittance",
+    "channelType": [
+      "landing_page"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "reason": "대만 국기/국가 표기 프로토콜 오류"
+  },
+  {
+    "id": "chn-003",
+    "countryId": "china",
+    "plannedPublishDate": "2026-06-04",
+    "text": "Tank Man급 금리 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "천안문 6/4 관련 상징+금융 프로모션"
+  },
+  {
+    "id": "chn-004",
+    "countryId": "china",
+    "plannedPublishDate": "2026-02-20",
+    "text": "春节红包 캐시백",
+    "productType": "card",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "춘절 홍바오 맥락의 일반 금융 혜택"
+  },
+  {
+    "id": "chn-005",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "중국 지도에서 대만·홍콩·신장을 별도 국가로 표시",
+    "productType": "remittance",
+    "channelType": [
+      "landing_page"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "reason": "지도/국가 목록 프로토콜 오류"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "tha-monarchy-article112",
+    "countryId": "thailand",
+    "nameKo": "태국 왕실·왕실모독법 민감성",
+    "nameEn": "Thai monarchy / Article 112",
+    "nameLocal": "สถาบันพระมหากษัตริย์ / มาตรา 112",
+    "aliases": [
+      "태국 왕실·왕실모독법 민감성",
+      "Thai monarchy / Article 112",
+      "สถาบันพระมหากษัตริย์ / มาตรา 112",
+      "royal family",
+      "Article 112"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "monarchy",
+      "legal_sensitivity",
+      "national_institution"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "royal family",
+      "Article 112",
+      "lèse-majesté",
+      "King",
+      "royal portrait"
+    ],
+    "stakeholderGroups": [
+      "Thai_public",
+      "royalist_groups"
+    ],
+    "associatedTermIds": [
+      "tha-term-king",
+      "tha-term-article112",
+      "tha-term-royal"
+    ],
+    "associatedSymbolIds": [
+      "tha-symbol-royal-portrait",
+      "tha-symbol-yellow-royal",
+      "tha-symbol-thai-baht"
+    ],
+    "reviewPolicy": "왕실·국왕 이미지·왕실 문장을 금융 혜택/밈/조롱에 사용하면 high/hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters",
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-buddhism-sacred",
+    "countryId": "thailand",
+    "nameKo": "태국 불교·사원·불상 상징",
+    "nameEn": "Thai Buddhism / sacred symbols",
+    "nameLocal": "พุทธศาสนา",
+    "aliases": [
+      "태국 불교·사원·불상 상징",
+      "Thai Buddhism / sacred symbols",
+      "พุทธศาสนา",
+      "Buddha",
+      "monks"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "religion",
+      "sacred_symbol"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Buddha",
+      "monks",
+      "temple",
+      "wat",
+      "Buddha head"
+    ],
+    "stakeholderGroups": [
+      "Buddhist_community",
+      "monks",
+      "Thai_public"
+    ],
+    "associatedTermIds": [
+      "tha-term-buddha",
+      "tha-term-monk",
+      "tha-term-temple"
+    ],
+    "associatedSymbolIds": [
+      "tha-symbol-buddha-head",
+      "tha-symbol-temple",
+      "tha-symbol-monk"
+    ],
+    "reviewPolicy": "불상·승려·사원 상징을 금융상품 캐릭터·캐시백 밈으로 쓰면 hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-songkran",
+    "countryId": "thailand",
+    "nameKo": "송끄란·태국 설 물축제",
+    "nameEn": "Songkran / Thai New Year",
+    "nameLocal": "สงกรานต์",
+    "aliases": [
+      "송끄란·태국 설 물축제",
+      "Songkran / Thai New Year",
+      "สงกรานต์",
+      "water festival",
+      "Thai New Year"
+    ],
+    "dates": [
+      "04-13",
+      "04-14",
+      "04-15"
+    ],
+    "dateWindowDays": 3,
+    "eventType": [
+      "new_year",
+      "water_festival",
+      "family_holiday"
+    ],
+    "sensitivityLevel": "info",
+    "contexts": [
+      "water festival",
+      "Thai New Year",
+      "family",
+      "merit"
+    ],
+    "stakeholderGroups": [
+      "Thai_public",
+      "families"
+    ],
+    "associatedTermIds": [
+      "tha-term-songkran",
+      "tha-term-water"
+    ],
+    "associatedSymbolIds": [
+      "tha-symbol-water-splash",
+      "tha-symbol-floral-shirt"
+    ],
+    "reviewPolicy": "송끄란 금융 프로모션은 가능하나 불교·왕실·사고/음주운전 비하와 결합 시 caution/hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-2014-coup-2020-protest",
+    "countryId": "thailand",
+    "nameKo": "태국 군부 쿠데타·민주화 시위 상징",
+    "nameEn": "Thai coup / pro-democracy protest symbols",
+    "nameLocal": "ชูสามนิ้ว",
+    "aliases": [
+      "태국 군부 쿠데타·민주화 시위 상징",
+      "Thai coup / pro-democracy protest symbols",
+      "ชูสามนิ้ว",
+      "2014 coup",
+      "2020 protests"
+    ],
+    "dates": [
+      "05-22"
+    ],
+    "dateWindowDays": 5,
+    "eventType": [
+      "political_protest",
+      "military_coup",
+      "democracy_movement"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "2014 coup",
+      "2020 protests",
+      "three-finger salute",
+      "red/yellow shirts"
+    ],
+    "stakeholderGroups": [
+      "Thai_public",
+      "protesters",
+      "political_groups"
+    ],
+    "associatedTermIds": [
+      "tha-term-coup",
+      "tha-term-three-finger",
+      "tha-term-red-yellow"
+    ],
+    "associatedSymbolIds": [
+      "tha-symbol-three-finger-salute",
+      "tha-symbol-red-yellow-shirts"
+    ],
+    "reviewPolicy": "쿠데타·시위·색깔 정치 상징을 금융 프로모션에 쓰면 high/hold",
+    "sourceRefs": [
+      "three_finger_salute",
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-royal-days",
+    "countryId": "thailand",
+    "nameKo": "왕실 관련 기념일",
+    "nameEn": "Royal-related memorial/birthday days",
+    "nameLocal": "วันเฉลิมพระชนมพรรษา",
+    "aliases": [
+      "왕실 관련 기념일",
+      "Royal-related memorial/birthday days",
+      "วันเฉลิมพระชนมพรรษา",
+      "King's Birthday",
+      "Former King's Birthday"
+    ],
+    "dates": [
+      "07-28",
+      "12-05",
+      "10-13"
+    ],
+    "dateWindowDays": 3,
+    "eventType": [
+      "royal_day",
+      "national_emotion"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "King's Birthday",
+      "Former King's Birthday",
+      "King Bhumibol memorial"
+    ],
+    "stakeholderGroups": [
+      "Thai_public"
+    ],
+    "associatedTermIds": [
+      "tha-term-king",
+      "tha-term-royal"
+    ],
+    "associatedSymbolIds": [
+      "tha-symbol-royal-portrait",
+      "tha-symbol-yellow-royal"
+    ],
+    "reviewPolicy": "왕실 기념일에는 존중 문맥만 허용; 할인/농담/이미지 변형은 high/hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  }
+]

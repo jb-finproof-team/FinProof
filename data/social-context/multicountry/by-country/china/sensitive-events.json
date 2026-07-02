@@ -1,0 +1,236 @@
+[
+  {
+    "id": "chn-prc-national-day",
+    "countryId": "china",
+    "nameKo": "중국 국경절",
+    "nameEn": "PRC National Day",
+    "nameLocal": "国庆节",
+    "aliases": [
+      "중국 국경절",
+      "PRC National Day",
+      "国庆节",
+      "National Day",
+      "Golden Week"
+    ],
+    "dates": [
+      "10-01"
+    ],
+    "dateWindowDays": 3,
+    "eventType": [
+      "national_day",
+      "sovereignty",
+      "patriotism"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "National Day",
+      "Golden Week",
+      "PRC founding",
+      "Tiananmen Square"
+    ],
+    "stakeholderGroups": [
+      "Chinese_public"
+    ],
+    "associatedTermIds": [
+      "chn-term-national-day",
+      "chn-term-golden-week"
+    ],
+    "associatedSymbolIds": [
+      "chn-symbol-prc-flag",
+      "chn-symbol-tiananmen"
+    ],
+    "reviewPolicy": "국기·국경절·천안문 광장 상징은 존중 맥락만 사용; 조롱·정치 풍자·지도 오류와 결합 시 high/hold",
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-taiwan-sovereignty",
+    "countryId": "china",
+    "nameKo": "대만·중국 주권 민감성",
+    "nameEn": "Taiwan / One-China sensitivity",
+    "nameLocal": "台湾",
+    "aliases": [
+      "대만·중국 주권 민감성",
+      "Taiwan / One-China sensitivity",
+      "台湾",
+      "Taiwan",
+      "Chinese Taipei"
+    ],
+    "dates": [
+      "10-10",
+      "10-25"
+    ],
+    "dateWindowDays": 3,
+    "eventType": [
+      "sovereignty",
+      "cross_strait",
+      "territorial_sensitivity"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Taiwan",
+      "Chinese Taipei",
+      "Double Ten",
+      "Taiwan flag",
+      "One China"
+    ],
+    "stakeholderGroups": [
+      "Chinese_public",
+      "Taiwanese_public"
+    ],
+    "associatedTermIds": [
+      "chn-term-taiwan",
+      "chn-term-chinese-taipei",
+      "chn-term-double-ten"
+    ],
+    "associatedSymbolIds": [
+      "chn-symbol-taiwan-flag",
+      "chn-symbol-map"
+    ],
+    "reviewPolicy": "국가 목록·지도·국기·대만 표기 오류는 중화권 금융 마케팅에서 high/hold",
+    "sourceRefs": [
+      "china_taiwan_flag_reuters",
+      "china_taiwan_restoration_ap"
+    ]
+  },
+  {
+    "id": "chn-hk-tibet-xinjiang",
+    "countryId": "china",
+    "nameKo": "홍콩·티베트·신장 정치 민감 이슈",
+    "nameEn": "Hong Kong / Tibet / Xinjiang sensitivity",
+    "nameLocal": "香港 / 西藏 / 新疆",
+    "aliases": [
+      "홍콩·티베트·신장 정치 민감 이슈",
+      "Hong Kong / Tibet / Xinjiang sensitivity",
+      "香港 / 西藏 / 新疆",
+      "Hong Kong",
+      "Tibet"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "political_sensitivity",
+      "autonomy",
+      "ethnic_religious_sensitivity"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Hong Kong",
+      "Tibet",
+      "Xinjiang",
+      "separatism",
+      "human rights"
+    ],
+    "stakeholderGroups": [
+      "Chinese_public",
+      "affected_groups",
+      "diaspora"
+    ],
+    "associatedTermIds": [
+      "chn-term-hong-kong",
+      "chn-term-tibet",
+      "chn-term-xinjiang"
+    ],
+    "associatedSymbolIds": [
+      "chn-symbol-hk-protest",
+      "chn-symbol-uyghur",
+      "chn-symbol-tibetan-flag"
+    ],
+    "reviewPolicy": "해당 지명·상징·정치 슬로건을 금융 프로모션·지도·국가 목록에 부정확하게 사용하면 high/hold",
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-tiananmen-june4",
+    "countryId": "china",
+    "nameKo": "천안문 6·4 사건",
+    "nameEn": "Tiananmen / June Fourth",
+    "nameLocal": "天安门 / 六四",
+    "aliases": [
+      "천안문 6·4 사건",
+      "Tiananmen / June Fourth",
+      "天安门 / 六四",
+      "Tiananmen",
+      "June Fourth"
+    ],
+    "dates": [
+      "06-04"
+    ],
+    "dateWindowDays": 5,
+    "eventType": [
+      "political_memory",
+      "state_violence",
+      "censorship_sensitive"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Tiananmen",
+      "June Fourth",
+      "Tank Man",
+      "1989"
+    ],
+    "stakeholderGroups": [
+      "Chinese_public",
+      "diaspora"
+    ],
+    "associatedTermIds": [
+      "chn-term-tiananmen",
+      "chn-term-june-fourth",
+      "chn-term-tank-man"
+    ],
+    "associatedSymbolIds": [
+      "chn-symbol-tiananmen",
+      "chn-symbol-tank-man"
+    ],
+    "reviewPolicy": "천안문·6/4·탱크맨 표현을 금융 프로모션 은유로 쓰면 high/hold",
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-lunar-new-year",
+    "countryId": "china",
+    "nameKo": "춘절·중국 설",
+    "nameEn": "Chinese New Year / Spring Festival",
+    "nameLocal": "春节",
+    "aliases": [
+      "춘절·중국 설",
+      "Chinese New Year / Spring Festival",
+      "春节",
+      "Spring Festival",
+      "red envelope"
+    ],
+    "dates": [
+      "lunar-new-year"
+    ],
+    "dateWindowDays": 7,
+    "eventType": [
+      "family_holiday",
+      "national_holiday"
+    ],
+    "sensitivityLevel": "info",
+    "contexts": [
+      "Spring Festival",
+      "red envelope",
+      "family reunion"
+    ],
+    "stakeholderGroups": [
+      "Chinese_public",
+      "families"
+    ],
+    "associatedTermIds": [
+      "chn-term-spring-festival",
+      "chn-term-red-envelope"
+    ],
+    "associatedSymbolIds": [
+      "chn-symbol-red-envelope",
+      "chn-symbol-dragon"
+    ],
+    "reviewPolicy": "춘절 마케팅은 가능하나 도박·빈곤·국가 상징 조롱과 결합 시 caution",
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  }
+]

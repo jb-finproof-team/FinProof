@@ -1,0 +1,177 @@
+[
+  {
+    "id": "khm-symbol-skull-memorial",
+    "countryId": "cambodia",
+    "labelKo": "해골·유해 추모 상징",
+    "labelEn": "Skull memorial",
+    "labelLocal": "",
+    "aliases": [
+      "skull",
+      "bones",
+      "유골",
+      "해골"
+    ],
+    "symbolType": "genocide_memorial_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "discount",
+      "app_banner"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "박물관"
+    ],
+    "sourceRefs": [
+      "cambodia_genocide"
+    ]
+  },
+  {
+    "id": "khm-symbol-choeung-ek-stupa",
+    "countryId": "cambodia",
+    "labelKo": "쯔엉아익 추모탑",
+    "labelEn": "Choeung Ek memorial stupa",
+    "labelLocal": "",
+    "aliases": [
+      "Choeung Ek",
+      "stupa",
+      "memorial tower"
+    ],
+    "symbolType": "genocide_memorial_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeContexts": [
+      "coupon",
+      "financial_event"
+    ],
+    "safeContexts": [
+      "추모",
+      "교육"
+    ],
+    "sourceRefs": [
+      "cambodia_memorial_sites_reuters"
+    ]
+  },
+  {
+    "id": "khm-symbol-angkor-wat",
+    "countryId": "cambodia",
+    "labelKo": "앙코르와트",
+    "labelEn": "Angkor Wat",
+    "labelLocal": "អង្គរវត្ត",
+    "aliases": [
+      "Angkor Wat",
+      "앙코르와트",
+      "អង្គរវត្ត"
+    ],
+    "symbolType": "national_heritage",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "deformation",
+      "mockery",
+      "cheap discount"
+    ],
+    "safeContexts": [
+      "관광 안내",
+      "문화 존중"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  },
+  {
+    "id": "khm-symbol-flag",
+    "countryId": "cambodia",
+    "labelKo": "캄보디아 국기",
+    "labelEn": "Cambodian flag",
+    "labelLocal": "ទង់ជាតិ",
+    "aliases": [
+      "Cambodia flag",
+      "국기",
+      "ទង់ជាតិ"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "cashback gimmick"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  },
+  {
+    "id": "khm-symbol-pagoda",
+    "countryId": "cambodia",
+    "labelKo": "불교 사원·파고다",
+    "labelEn": "Pagoda / Buddhist temple",
+    "labelLocal": "វត្ត",
+    "aliases": [
+      "pagoda",
+      "temple",
+      "wat",
+      "사원",
+      "វត្ត"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben",
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "discount mascot",
+      "meme"
+    ],
+    "safeContexts": [
+      "문화 안내",
+      "종교 행사"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-symbol-monk",
+    "countryId": "cambodia",
+    "labelKo": "승려 이미지",
+    "labelEn": "Buddhist monk",
+    "labelLocal": "ព្រះសង្ឃ",
+    "aliases": [
+      "monk",
+      "승려",
+      "스님",
+      "ព្រះសង្ឃ"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben",
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "cashback character",
+      "joke"
+    ],
+    "safeContexts": [
+      "종교 안내"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  }
+]

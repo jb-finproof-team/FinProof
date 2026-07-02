@@ -1,0 +1,2722 @@
+[
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-17",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-05-20",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-01-07",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-killing-fields",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-tuol-sleng",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-year-zero",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-pol-pot",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-skull-memorial",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-choeung-ek-stupa",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-survivors",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-victims-families",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "hasSensitiveDate",
+    "to": "date-khmer-lunar-10th-month",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-ancestor",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-ghost",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-offering",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-pagoda",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-monk",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedTerm",
+    "to": "khm-term-king",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedTerm",
+    "to": "khm-term-buddhism",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-angkor-wat",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-flag",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-killing-fields",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-tuol-sleng",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-year-zero",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-pol-pot",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-ghost",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-offering",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-king",
+    "relation": "termOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-skull-memorial",
+    "relation": "symbolOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-choeung-ek-stupa",
+    "relation": "symbolOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-angkor-wat",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-30",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-april30",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-saigon-fall",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-black-april",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-tank390",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-flag",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-overseas-vietnamese",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-09-02",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-ho-chi-minh",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-star-flag",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-ba-dinh",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-agent-orange",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-napalm",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-orange-ribbon",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-war-helicopter",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-war-victims",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-disabled-people",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-new-year",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedTerm",
+    "to": "vnm-term-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedTerm",
+    "to": "vnm-term-lucky-money",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-apricot-blossom",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-red-envelope",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-elders",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-03-10",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedTerm",
+    "to": "vnm-term-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedTerm",
+    "to": "vnm-term-ancestor",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-temple",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-april30",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-saigon-fall",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-black-april",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ho-chi-minh",
+    "relation": "termOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-national-day",
+    "relation": "termOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-agent-orange",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-napalm",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-war",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-war",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-tet",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-lucky-money",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-hung-kings",
+    "relation": "termOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-tank390",
+    "relation": "symbolOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-star-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-ba-dinh",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-orange-ribbon",
+    "relation": "symbolOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-war-helicopter",
+    "relation": "symbolOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-apricot-blossom",
+    "relation": "symbolOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-red-envelope",
+    "relation": "symbolOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-temple",
+    "relation": "symbolOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "hasSensitiveDate",
+    "to": "date-02-01",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-tatmadaw",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-cdm",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-aung-san-suu-kyi",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-red-ribbon",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-pot-banging",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-myanmar-public",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-protesters",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-rohingya",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-refugee",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-burning-village",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-refugee-camp",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-rohingya",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-rakhine-communities",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-refugees",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "hasSensitiveDate",
+    "to": "date-08-08",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedTerm",
+    "to": "mmr-term-8888",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedTerm",
+    "to": "mmr-term-crackdown",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-peacock",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-survivors",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-students",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-democracy-movement",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "hasSensitiveDate",
+    "to": "date-myanmar-new-year",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedTerm",
+    "to": "mmr-term-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedTerm",
+    "to": "mmr-term-water",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-water-splash",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-pagoda",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "mmr-term-buddhism",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "mmr-term-monk",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-shwedagon",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-monk",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-coup",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-tatmadaw",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-cdm",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-aung-san-suu-kyi",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-rohingya",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-rakhine",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-refugee",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-8888",
+    "relation": "termOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-crackdown",
+    "relation": "termOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-crackdown",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-thingyan",
+    "relation": "termOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-water",
+    "relation": "termOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-monk",
+    "relation": "termOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-red-ribbon",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-pot-banging",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-burning-village",
+    "relation": "symbolOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-refugee-camp",
+    "relation": "symbolOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-peacock",
+    "relation": "symbolOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-water-splash",
+    "relation": "symbolOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-shwedagon",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-01",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedTerm",
+    "to": "chn-term-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedTerm",
+    "to": "chn-term-golden-week",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-prc-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-10",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-25",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-taiwan",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-chinese-taipei",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-double-ten",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-taiwan-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-map",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-taiwanese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-hong-kong",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-tibet",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-hk-protest",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-uyghur",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tibetan-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-affected-groups",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "hasSensitiveDate",
+    "to": "date-06-04",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-june-fourth",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-tank-man",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tank-man",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-new-year",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedTerm",
+    "to": "chn-term-spring-festival",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedTerm",
+    "to": "chn-term-red-envelope",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-red-envelope",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-dragon",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-national-day",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-golden-week",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-taiwan",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-chinese-taipei",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-double-ten",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-hong-kong",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tibet",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-xinjiang",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tiananmen",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tiananmen",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-june-fourth",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tank-man",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-spring-festival",
+    "relation": "termOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-red-envelope",
+    "relation": "termOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-prc-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tiananmen",
+    "relation": "symbolOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tiananmen",
+    "relation": "symbolOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-taiwan-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-map",
+    "relation": "symbolOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-map",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-hk-protest",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-uyghur",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tibetan-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tank-man",
+    "relation": "symbolOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-red-envelope",
+    "relation": "symbolOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-dragon",
+    "relation": "symbolOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-king",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-royal-portrait",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-yellow-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-thai-baht",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-royalist-groups",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-buddha",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-monk",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-temple",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-buddha-head",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-temple",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-monk",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-13",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-14",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-15",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedTerm",
+    "to": "tha-term-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedTerm",
+    "to": "tha-term-water",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-water-splash",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-floral-shirt",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "hasSensitiveDate",
+    "to": "date-05-22",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-coup",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-three-finger",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-red-yellow",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-red-yellow-shirts",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-protesters",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-political-groups",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-07-28",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-12-05",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-13",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedTerm",
+    "to": "tha-term-king",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedTerm",
+    "to": "tha-term-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-royal-portrait",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-yellow-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-king",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-king",
+    "relation": "termOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-article112",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-royal",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-buddha",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-monk",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-temple",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-songkran",
+    "relation": "termOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-water",
+    "relation": "termOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-coup",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-three-finger",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-red-yellow",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-royal-portrait",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-royal-portrait",
+    "relation": "symbolOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-yellow-royal",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-yellow-royal",
+    "relation": "symbolOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-thai-baht",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-buddha-head",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-temple",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-water-splash",
+    "relation": "symbolOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-floral-shirt",
+    "relation": "symbolOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-red-yellow-shirts",
+    "relation": "symbolOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  }
+]

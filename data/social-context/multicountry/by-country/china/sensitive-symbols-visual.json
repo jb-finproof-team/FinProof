@@ -1,0 +1,271 @@
+[
+  {
+    "id": "chn-symbol-prc-flag",
+    "countryId": "china",
+    "labelKo": "중국 국기",
+    "labelEn": "PRC flag",
+    "labelLocal": "五星红旗",
+    "aliases": [
+      "Chinese flag",
+      "五星红旗",
+      "오성홍기"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-prc-national-day"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "wrong map"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-tiananmen",
+    "countryId": "china",
+    "labelKo": "천안문 이미지",
+    "labelEn": "Tiananmen visual",
+    "labelLocal": "天安门",
+    "aliases": [
+      "Tiananmen image",
+      "천안문"
+    ],
+    "symbolType": "national_and_political_site",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-prc-national-day",
+      "chn-tiananmen-june4"
+    ],
+    "unsafeContexts": [
+      "promo joke",
+      "tank visual"
+    ],
+    "safeContexts": [
+      "관광/역사 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-taiwan-flag",
+    "countryId": "china",
+    "labelKo": "대만 국기",
+    "labelEn": "Taiwan flag",
+    "labelLocal": "青天白日满地红",
+    "aliases": [
+      "Taiwan flag",
+      "ROC flag",
+      "대만 국기"
+    ],
+    "symbolType": "sovereignty_sensitive_flag",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty"
+    ],
+    "unsafeContexts": [
+      "used_as_country_flag_in_prc_campaign",
+      "wrong protocol"
+    ],
+    "safeContexts": [
+      "대만 고객 프로토콜에서 검토"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-map",
+    "countryId": "china",
+    "labelKo": "중국 지도",
+    "labelEn": "China map",
+    "labelLocal": "中国地图",
+    "aliases": [
+      "China map",
+      "지도",
+      "map"
+    ],
+    "symbolType": "sovereignty_sensitive_map",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty",
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "missing Taiwan",
+      "mislabel Hong Kong",
+      "separate Tibet/Xinjiang"
+    ],
+    "safeContexts": [
+      "검토된 공식 지도"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters",
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-hk-protest",
+    "countryId": "china",
+    "labelKo": "홍콩 시위 상징",
+    "labelEn": "Hong Kong protest symbols",
+    "labelLocal": "",
+    "aliases": [
+      "umbrella",
+      "black bauhinia",
+      "protest flag"
+    ],
+    "symbolType": "political_protest_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "discount"
+    ],
+    "safeContexts": [
+      "뉴스/역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-uyghur",
+    "countryId": "china",
+    "labelKo": "위구르 상징",
+    "labelEn": "Uyghur symbol",
+    "labelLocal": "",
+    "aliases": [
+      "Uyghur flag",
+      "East Turkestan flag"
+    ],
+    "symbolType": "ethnic_political_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "stereotype"
+    ],
+    "safeContexts": [
+      "인권/문화 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-tibetan-flag",
+    "countryId": "china",
+    "labelKo": "티베트 국기·상징",
+    "labelEn": "Tibetan flag",
+    "labelLocal": "",
+    "aliases": [
+      "Tibetan flag",
+      "snow lion flag"
+    ],
+    "symbolType": "political_religious_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "card design",
+      "promo"
+    ],
+    "safeContexts": [
+      "문화/역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-tank-man",
+    "countryId": "china",
+    "labelKo": "탱크맨 이미지",
+    "labelEn": "Tank Man image",
+    "labelLocal": "",
+    "aliases": [
+      "tank man",
+      "man before tank"
+    ],
+    "symbolType": "political_memory_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-tiananmen-june4"
+    ],
+    "unsafeContexts": [
+      "loan tank",
+      "card visual"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-red-envelope",
+    "countryId": "china",
+    "labelKo": "홍바오 봉투",
+    "labelEn": "Red envelope",
+    "labelLocal": "红包",
+    "aliases": [
+      "red envelope",
+      "红包",
+      "홍바오"
+    ],
+    "symbolType": "holiday_money_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeContexts": [
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 송금/캐시백"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-dragon",
+    "countryId": "china",
+    "labelKo": "용",
+    "labelEn": "Dragon",
+    "labelLocal": "龙",
+    "aliases": [
+      "dragon",
+      "용",
+      "龙"
+    ],
+    "symbolType": "cultural_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeContexts": [
+      "insulting distortion"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  }
+]

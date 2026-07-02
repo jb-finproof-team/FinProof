@@ -1,0 +1,530 @@
+[
+  {
+    "from": "vnm-reunification-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-30",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-april30",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-saigon-fall",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-black-april",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-tank390",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-flag",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-reunification-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-overseas-vietnamese",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-09-02",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-ho-chi-minh",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedTerm",
+    "to": "vnm-term-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-star-flag",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-ba-dinh",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-national-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-agent-orange",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-napalm",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedTerm",
+    "to": "vnm-term-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-orange-ribbon",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-war-helicopter",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-war-victims",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-agent-orange-war",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-disabled-people",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-new-year",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedTerm",
+    "to": "vnm-term-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedTerm",
+    "to": "vnm-term-lucky-money",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-apricot-blossom",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-red-envelope",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-tet",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-elders",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-03-10",
+    "weight": 1.0,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedTerm",
+    "to": "vnm-term-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedTerm",
+    "to": "vnm-term-ancestor",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "associatedSymbol",
+    "to": "vnm-symbol-temple",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-hung-kings",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-vietnamese-public",
+    "weight": 0.8,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-april30",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-saigon-fall",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-black-april",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ho-chi-minh",
+    "relation": "termOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-national-day",
+    "relation": "termOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-agent-orange",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-napalm",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-war",
+    "relation": "termOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-war",
+    "relation": "termOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-tet",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-lucky-money",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-hung-kings",
+    "relation": "termOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-tank390",
+    "relation": "symbolOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-reunification-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-star-flag",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-ba-dinh",
+    "relation": "symbolOfEvent",
+    "to": "vnm-national-day",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-orange-ribbon",
+    "relation": "symbolOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-war-helicopter",
+    "relation": "symbolOfEvent",
+    "to": "vnm-agent-orange-war",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-apricot-blossom",
+    "relation": "symbolOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-red-envelope",
+    "relation": "symbolOfEvent",
+    "to": "vnm-tet",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "vnm-symbol-temple",
+    "relation": "symbolOfEvent",
+    "to": "vnm-hung-kings",
+    "weight": 0.9,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "vietnam",
+    "weight": 0.6,
+    "countryId": "vietnam",
+    "note": ""
+  }
+]

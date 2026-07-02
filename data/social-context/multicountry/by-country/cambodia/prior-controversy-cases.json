@@ -1,0 +1,21 @@
+[
+  {
+    "id": "case-cambodia-genocide-commercial-metaphor",
+    "countryId": "cambodia",
+    "title": "제노사이드·킬링필드 표현의 상업적 은유 사용 리스크",
+    "triggerTerms": [
+      "Killing Fields",
+      "Year Zero",
+      "S-21"
+    ],
+    "riskPatternIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "lesson": "학살·감옥·유해 추모 상징은 금융 혜택/할인 은유로 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "cambodia_genocide",
+      "cambodia_memorial_sites_reuters"
+    ]
+  }
+]

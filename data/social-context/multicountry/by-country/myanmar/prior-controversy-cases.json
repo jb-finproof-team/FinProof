@@ -1,0 +1,21 @@
+[
+  {
+    "id": "case-myanmar-protest-symbol-card-design",
+    "countryId": "myanmar",
+    "title": "세 손가락 경례·CDM 상징의 카드 혜택 이미지화 리스크",
+    "triggerTerms": [
+      "three-finger salute",
+      "CDM",
+      "red ribbon"
+    ],
+    "riskPatternIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "lesson": "정치 시위 상징은 카드·대출·쿠폰 그래픽에 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "myanmar_coup_reuters",
+      "three_finger_salute"
+    ]
+  }
+]

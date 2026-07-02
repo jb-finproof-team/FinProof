@@ -1,0 +1,402 @@
+[
+  {
+    "id": "khm-001",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-04-17",
+    "text": "Killing Fields급 수익률 이벤트",
+    "productType": "investment",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "크메르루주 관련 민감 날짜와 제노사이드 표현, 수익률 프로모션 결합"
+  },
+  {
+    "id": "khm-002",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-09-15",
+    "text": "Pchum Ben 가족 송금 수수료 우대",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "프춤번 가족 송금 안내로 비교적 안전"
+  },
+  {
+    "id": "khm-003",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-05-20",
+    "text": "S-21 제로 수수료 특가",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "추모일+S-21+금융 혜택"
+  },
+  {
+    "id": "khm-004",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-01-07",
+    "text": "Angkor Wat 카드 디자인",
+    "productType": "card",
+    "channelType": [
+      "card_design"
+    ],
+    "expectedRiskLevel": "caution",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "national_symbol_distortion_finance_promo"
+    ],
+    "reason": "국가 유산 상징 사용 방식 검토 필요"
+  },
+  {
+    "id": "vnm-001",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-04-30",
+    "text": "Fall of Saigon급 금리 하락 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "4/30 전쟁 기억+금리 하락 은유"
+  },
+  {
+    "id": "vnm-002",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-09-02",
+    "text": "Quốc khánh 기념 송금 수수료 안내",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "국경일 중립 안내/혜택"
+  },
+  {
+    "id": "vnm-003",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-02-01",
+    "text": "Agent Orange 캐시백 오렌지 이벤트",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "고엽제 피해 표현과 캐시백 테마 결합"
+  },
+  {
+    "id": "vnm-004",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-02-15",
+    "text": "Tết 가족 송금 수수료 할인",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "뗏 명절 송금 혜택"
+  },
+  {
+    "id": "mmr-001",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-02-01",
+    "text": "CDM 캐시백 응원 이벤트",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "reason": "쿠데타 기념일과 시위 상징+금융혜택 결합"
+  },
+  {
+    "id": "mmr-002",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-04-15",
+    "text": "Thingyan 가족 송금 수수료 면제",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "띤잔 명절 송금 안내"
+  },
+  {
+    "id": "mmr-003",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-08-08",
+    "text": "8888급 대출 한도 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "8888 민주화 항쟁 날짜와 대출 이벤트 결합"
+  },
+  {
+    "id": "mmr-004",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-06-01",
+    "text": "Rohingya remittance joke campaign",
+    "productType": "remittance",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "ethnic_conflict_or_refugee_financial_stereotype"
+    ],
+    "reason": "난민/민족 민감 이슈를 마케팅 농담으로 사용"
+  },
+  {
+    "id": "chn-001",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "国庆节 카드 혜택 안내",
+    "productType": "card",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "국경절 금융 안내로 정상 맥락"
+  },
+  {
+    "id": "chn-002",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "대만 국기를 국가 목록에 단독 표시한 송금 광고",
+    "productType": "remittance",
+    "channelType": [
+      "landing_page"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "reason": "대만 국기/국가 표기 프로토콜 오류"
+  },
+  {
+    "id": "chn-003",
+    "countryId": "china",
+    "plannedPublishDate": "2026-06-04",
+    "text": "Tank Man급 금리 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "천안문 6/4 관련 상징+금융 프로모션"
+  },
+  {
+    "id": "chn-004",
+    "countryId": "china",
+    "plannedPublishDate": "2026-02-20",
+    "text": "春节红包 캐시백",
+    "productType": "card",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "춘절 홍바오 맥락의 일반 금융 혜택"
+  },
+  {
+    "id": "tha-001",
+    "countryId": "thailand",
+    "plannedPublishDate": "2026-07-28",
+    "text": "Royal cashback king 이벤트",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "monarchy_or_royal_symbol_financial_joke"
+    ],
+    "reason": "태국 왕실 표현과 캐시백/이벤트 결합"
+  },
+  {
+    "id": "tha-002",
+    "countryId": "thailand",
+    "plannedPublishDate": "2026-04-13",
+    "text": "Songkran 가족 송금 수수료 할인",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "송끄란 가족 송금 안내"
+  },
+  {
+    "id": "tha-003",
+    "countryId": "thailand",
+    "plannedPublishDate": "2026-05-22",
+    "text": "세 손가락 경례 카드 혜택 포즈",
+    "productType": "card",
+    "channelType": [
+      "card_design"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "reason": "쿠데타/시위 상징을 카드 프로모션에 사용"
+  },
+  {
+    "id": "tha-004",
+    "countryId": "thailand",
+    "plannedPublishDate": "2026-03-01",
+    "text": "Buddha loan mascot",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "sacred_religious_symbol_commercial_gimmick"
+    ],
+    "reason": "불교 성스러운 상징을 대출 마스코트로 사용"
+  },
+  {
+    "id": "khm-005",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-05-20",
+    "text": "Year Zero 수수료 0원 캠페인",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "Year Zero를 수수료 제로 마케팅으로 사용"
+  },
+  {
+    "id": "vnm-005",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-04-30",
+    "text": "30/4 Victory 캐시백",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "caution",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "국가 기념일 정치/전쟁 표현과 상업 혜택 결합 가능"
+  },
+  {
+    "id": "mmr-005",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-02-01",
+    "text": "တပ်မတော် loan power event",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "reason": "군부 상징을 대출 이벤트로 사용"
+  },
+  {
+    "id": "chn-005",
+    "countryId": "china",
+    "plannedPublishDate": "2026-10-01",
+    "text": "중국 지도에서 대만·홍콩·신장을 별도 국가로 표시",
+    "productType": "remittance",
+    "channelType": [
+      "landing_page"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "reason": "지도/국가 목록 프로토콜 오류"
+  },
+  {
+    "id": "tha-005",
+    "countryId": "thailand",
+    "plannedPublishDate": "2026-12-05",
+    "text": "국왕 초상화 배경의 대출 특가",
+    "productType": "loan",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "monarchy_or_royal_symbol_financial_joke"
+    ],
+    "reason": "왕실 기념일과 금융 프로모션 결합"
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "id": "vnm-term-april30",
+    "countryId": "vietnam",
+    "labelKo": "4월30일·해방일",
+    "labelEn": "April 30 / Liberation Day",
+    "labelLocal": "30/4",
+    "aliases": [
+      "30/4",
+      "April 30",
+      "Giải phóng",
+      "Liberation Day",
+      "Victory Day"
+    ],
+    "termType": "national_war_date",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-reunification-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "flash sale",
+      "political slogan",
+      "division joke"
+    ],
+    "safeContexts": [
+      "공식 기념",
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-term-saigon-fall",
+    "countryId": "vietnam",
+    "labelKo": "사이공 함락",
+    "labelEn": "Fall of Saigon",
+    "labelLocal": "Sài Gòn thất thủ",
+    "aliases": [
+      "Fall of Saigon",
+      "Saigon falls",
+      "사이공 함락"
+    ],
+    "termType": "war_memory",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-reunification-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "loan crash",
+      "rate fall",
+      "promo"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "보도"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-term-black-april",
+    "countryId": "vietnam",
+    "labelKo": "검은 4월",
+    "labelEn": "Black April",
+    "labelLocal": "Tháng Tư Đen",
+    "aliases": [
+      "Black April",
+      "검은 4월",
+      "Tháng Tư Đen"
+    ],
+    "termType": "diaspora_mourning",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-reunification-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "discount",
+      "event",
+      "joke"
+    ],
+    "safeContexts": [
+      "해외 베트남 커뮤니티 설명",
+      "역사 맥락"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-term-ho-chi-minh",
+    "countryId": "vietnam",
+    "labelKo": "호치민",
+    "labelEn": "Ho Chi Minh",
+    "labelLocal": "Hồ Chí Minh",
+    "aliases": [
+      "Ho Chi Minh",
+      "Hồ Chí Minh",
+      "호치민",
+      "Uncle Ho"
+    ],
+    "termType": "national_leader",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "joke",
+      "mascot",
+      "loan_name"
+    ],
+    "safeContexts": [
+      "공식 존중",
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-term-national-day",
+    "countryId": "vietnam",
+    "labelKo": "국경일·독립",
+    "labelEn": "National Day / Independence",
+    "labelLocal": "Quốc khánh",
+    "aliases": [
+      "Quốc khánh",
+      "National Day",
+      "Independence Day",
+      "국경일"
+    ],
+    "termType": "national_day",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "cheap deal",
+      "mockery"
+    ],
+    "safeContexts": [
+      "축하",
+      "공식 안내"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-term-agent-orange",
+    "countryId": "vietnam",
+    "labelKo": "고엽제",
+    "labelEn": "Agent Orange",
+    "labelLocal": "Chất độc da cam",
+    "aliases": [
+      "Agent Orange",
+      "고엽제",
+      "Chất độc da cam",
+      "da cam"
+    ],
+    "termType": "chemical_war_victim_memory",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "cashback",
+      "orange discount",
+      "rate bomb"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "피해자 지원"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-term-napalm",
+    "countryId": "vietnam",
+    "labelKo": "네이팜",
+    "labelEn": "Napalm",
+    "labelLocal": "napalm",
+    "aliases": [
+      "napalm",
+      "네이팜",
+      "폭격"
+    ],
+    "termType": "war_harm",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "혜택 폭격",
+      "loan bomb",
+      "discount fire"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "보도"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-term-war",
+    "countryId": "vietnam",
+    "labelKo": "베트남전",
+    "labelEn": "Vietnam War",
+    "labelLocal": "Chiến tranh Việt Nam",
+    "aliases": [
+      "Vietnam War",
+      "베트남전",
+      "war"
+    ],
+    "termType": "war_memory",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-agent-orange-war",
+      "vnm-reunification-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "promo",
+      "joke"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-term-tet",
+    "countryId": "vietnam",
+    "labelKo": "뗏·설",
+    "labelEn": "Tết",
+    "labelLocal": "Tết",
+    "aliases": [
+      "Tết",
+      "Tet",
+      "설"
+    ],
+    "termType": "family_holiday",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "gambling joke",
+      "debt joke"
+    ],
+    "safeContexts": [
+      "가족 혜택",
+      "명절 송금 안내"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-term-lucky-money",
+    "countryId": "vietnam",
+    "labelKo": "세뱃돈·리시",
+    "labelEn": "Lucky money",
+    "labelLocal": "lì xì",
+    "aliases": [
+      "lì xì",
+      "lucky money",
+      "세뱃돈"
+    ],
+    "termType": "holiday_money_custom",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "loan trap",
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 송금/카드 혜택"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-term-hung-kings",
+    "countryId": "vietnam",
+    "labelKo": "흥왕",
+    "labelEn": "Hung Kings",
+    "labelLocal": "Hùng Vương",
+    "aliases": [
+      "Hùng Vương",
+      "Hung Kings",
+      "흥왕"
+    ],
+    "termType": "founding_ancestor",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-hung-kings"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "discount joke"
+    ],
+    "safeContexts": [
+      "공식 기념"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-term-ancestor",
+    "countryId": "vietnam",
+    "labelKo": "조상",
+    "labelEn": "Ancestor",
+    "labelLocal": "tổ tiên",
+    "aliases": [
+      "ancestor",
+      "조상",
+      "tổ tiên"
+    ],
+    "termType": "ancestor_respect",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-hung-kings",
+      "vnm-tet"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "promo joke"
+    ],
+    "safeContexts": [
+      "추모",
+      "가족"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  }
+]

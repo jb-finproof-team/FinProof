@@ -1,0 +1,602 @@
+[
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-king",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedTerm",
+    "to": "tha-term-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-royal-portrait",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-yellow-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-thai-baht",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-monarchy-article112",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-royalist-groups",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-buddha",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-monk",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "tha-term-temple",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-buddha-head",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-temple",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-monk",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-13",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-14",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-15",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedTerm",
+    "to": "tha-term-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedTerm",
+    "to": "tha-term-water",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-water-splash",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-floral-shirt",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-songkran",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "hasSensitiveDate",
+    "to": "date-05-22",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-coup",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-three-finger",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedTerm",
+    "to": "tha-term-red-yellow",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-red-yellow-shirts",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-protesters",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-2014-coup-2020-protest",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-political-groups",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-07-28",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-12-05",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-13",
+    "weight": 1.0,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedTerm",
+    "to": "tha-term-king",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedTerm",
+    "to": "tha-term-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-royal-portrait",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "associatedSymbol",
+    "to": "tha-symbol-yellow-royal",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-royal-days",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-thai-public",
+    "weight": 0.8,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-king",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-king",
+    "relation": "termOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-article112",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-royal",
+    "relation": "termOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-buddha",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-monk",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-temple",
+    "relation": "termOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-songkran",
+    "relation": "termOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-water",
+    "relation": "termOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-coup",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-three-finger",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-term-red-yellow",
+    "relation": "termOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-royal-portrait",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-royal-portrait",
+    "relation": "symbolOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-yellow-royal",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-yellow-royal",
+    "relation": "symbolOfEvent",
+    "to": "tha-royal-days",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-thai-baht",
+    "relation": "symbolOfEvent",
+    "to": "tha-monarchy-article112",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-buddha-head",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-temple",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "tha-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-water-splash",
+    "relation": "symbolOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-floral-shirt",
+    "relation": "symbolOfEvent",
+    "to": "tha-songkran",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "tha-symbol-red-yellow-shirts",
+    "relation": "symbolOfEvent",
+    "to": "tha-2014-coup-2020-protest",
+    "weight": 0.9,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "thailand",
+    "weight": 0.6,
+    "countryId": "thailand",
+    "note": ""
+  }
+]

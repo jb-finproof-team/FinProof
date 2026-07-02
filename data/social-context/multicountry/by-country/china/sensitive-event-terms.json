@@ -1,0 +1,380 @@
+[
+  {
+    "id": "chn-term-national-day",
+    "countryId": "china",
+    "labelKo": "국경절",
+    "labelEn": "National Day",
+    "labelLocal": "国庆节",
+    "aliases": [
+      "国庆节",
+      "National Day",
+      "국경절",
+      "10/1"
+    ],
+    "termType": "national_day",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "chn-prc-national-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "political joke",
+      "map mistake"
+    ],
+    "safeContexts": [
+      "공식 축하",
+      "여행/휴일 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-term-golden-week",
+    "countryId": "china",
+    "labelKo": "황금연휴",
+    "labelEn": "Golden Week",
+    "labelLocal": "黄金周",
+    "aliases": [
+      "Golden Week",
+      "黄金周",
+      "황금연휴"
+    ],
+    "termType": "holiday_travel",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-prc-national-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "political mockery"
+    ],
+    "safeContexts": [
+      "여행/환전/송금 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-term-taiwan",
+    "countryId": "china",
+    "labelKo": "대만",
+    "labelEn": "Taiwan",
+    "labelLocal": "台湾",
+    "aliases": [
+      "Taiwan",
+      "台湾",
+      "대만",
+      "ROC"
+    ],
+    "termType": "sovereignty_sensitive_entity",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "country_list_error",
+      "flag_error",
+      "independence slogan"
+    ],
+    "safeContexts": [
+      "정확한 프로토콜",
+      "지역 표기 검토"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-chinese-taipei",
+    "countryId": "china",
+    "labelKo": "차이니즈 타이베이",
+    "labelEn": "Chinese Taipei",
+    "labelLocal": "中国台北",
+    "aliases": [
+      "Chinese Taipei",
+      "中国台北",
+      "차이니즈 타이베이"
+    ],
+    "termType": "protocol_name",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "wrong flag",
+      "country categorization"
+    ],
+    "safeContexts": [
+      "스포츠/프로토콜 설명"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-double-ten",
+    "countryId": "china",
+    "labelKo": "쌍십절",
+    "labelEn": "Double Ten Day",
+    "labelLocal": "双十节",
+    "aliases": [
+      "Double Ten",
+      "双十节",
+      "10/10",
+      "쌍십절"
+    ],
+    "termType": "taiwan_national_day",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "PRC campaign",
+      "map/flag"
+    ],
+    "safeContexts": [
+      "대만 고객 안내에서 정확한 검토"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-hong-kong",
+    "countryId": "china",
+    "labelKo": "홍콩",
+    "labelEn": "Hong Kong",
+    "labelLocal": "香港",
+    "aliases": [
+      "Hong Kong",
+      "香港",
+      "홍콩"
+    ],
+    "termType": "autonomy_political_sensitivity",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "independence slogan",
+      "protest image"
+    ],
+    "safeContexts": [
+      "금융센터 안내",
+      "지역명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-tibet",
+    "countryId": "china",
+    "labelKo": "티베트",
+    "labelEn": "Tibet",
+    "labelLocal": "西藏",
+    "aliases": [
+      "Tibet",
+      "西藏",
+      "티베트"
+    ],
+    "termType": "ethnic_religious_political_sensitivity",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "independence slogan",
+      "flag"
+    ],
+    "safeContexts": [
+      "역사/문화 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-xinjiang",
+    "countryId": "china",
+    "labelKo": "신장·위구르",
+    "labelEn": "Xinjiang / Uyghur",
+    "labelLocal": "新疆 / 维吾尔",
+    "aliases": [
+      "Xinjiang",
+      "新疆",
+      "Uyghur",
+      "위구르",
+      "신장"
+    ],
+    "termType": "ethnic_religious_political_sensitivity",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "stereotype",
+      "joke",
+      "forced labor"
+    ],
+    "safeContexts": [
+      "인권/지역 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-tiananmen",
+    "countryId": "china",
+    "labelKo": "천안문",
+    "labelEn": "Tiananmen",
+    "labelLocal": "天安门",
+    "aliases": [
+      "Tiananmen",
+      "天安门",
+      "천안문"
+    ],
+    "termType": "political_memory_site",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-tiananmen-june4",
+      "chn-prc-national-day"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "rate square",
+      "promo",
+      "tank"
+    ],
+    "safeContexts": [
+      "역사/관광 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-term-june-fourth",
+    "countryId": "china",
+    "labelKo": "6·4",
+    "labelEn": "June Fourth",
+    "labelLocal": "六四",
+    "aliases": [
+      "June Fourth",
+      "六四",
+      "6/4",
+      "6·4"
+    ],
+    "termType": "political_memory_date",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-tiananmen-june4"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "coupon code",
+      "promo"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-tank-man",
+    "countryId": "china",
+    "labelKo": "탱크맨",
+    "labelEn": "Tank Man",
+    "labelLocal": "坦克人",
+    "aliases": [
+      "Tank Man",
+      "탱크맨",
+      "坦克人"
+    ],
+    "termType": "political_memory_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-tiananmen-june4"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "card benefit",
+      "loan tank"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-term-spring-festival",
+    "countryId": "china",
+    "labelKo": "춘절",
+    "labelEn": "Spring Festival",
+    "labelLocal": "春节",
+    "aliases": [
+      "春节",
+      "Spring Festival",
+      "Chinese New Year",
+      "춘절"
+    ],
+    "termType": "family_holiday",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "debt joke",
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 혜택",
+      "송금 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-term-red-envelope",
+    "countryId": "china",
+    "labelKo": "홍바오",
+    "labelEn": "Red envelope",
+    "labelLocal": "红包",
+    "aliases": [
+      "红包",
+      "red envelope",
+      "홍바오"
+    ],
+    "termType": "holiday_money_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "gambling",
+      "debt trap"
+    ],
+    "safeContexts": [
+      "명절 송금/캐시백"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  }
+]

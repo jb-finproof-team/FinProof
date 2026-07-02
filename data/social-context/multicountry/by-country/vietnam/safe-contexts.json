@@ -1,0 +1,16 @@
+[
+  {
+    "id": "safe-vietnam-tet-cashback",
+    "countryId": "vietnam",
+    "text": "Tết remittance fee discount for family support",
+    "expectedRisk": "info",
+    "reason": "뗏 명절 송금 혜택은 정상 금융 프로모션 맥락"
+  },
+  {
+    "id": "safe-vietnam-agent-orange-donation",
+    "countryId": "vietnam",
+    "text": "Agent Orange victim support donation notice",
+    "expectedRisk": "info",
+    "reason": "피해자 지원/기부 맥락이며 상업적 은유가 아님"
+  }
+]

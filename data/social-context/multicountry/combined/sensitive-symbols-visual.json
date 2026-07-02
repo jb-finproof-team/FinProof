@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "khm-symbol-skull-memorial",
+    "countryId": "cambodia",
+    "labelKo": "해골·유해 추모 상징",
+    "labelEn": "Skull memorial",
+    "labelLocal": "",
+    "aliases": [
+      "skull",
+      "bones",
+      "유골",
+      "해골"
+    ],
+    "symbolType": "genocide_memorial_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "discount",
+      "app_banner"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "박물관"
+    ],
+    "sourceRefs": [
+      "cambodia_genocide"
+    ]
+  },
+  {
+    "id": "khm-symbol-choeung-ek-stupa",
+    "countryId": "cambodia",
+    "labelKo": "쯔엉아익 추모탑",
+    "labelEn": "Choeung Ek memorial stupa",
+    "labelLocal": "",
+    "aliases": [
+      "Choeung Ek",
+      "stupa",
+      "memorial tower"
+    ],
+    "symbolType": "genocide_memorial_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeContexts": [
+      "coupon",
+      "financial_event"
+    ],
+    "safeContexts": [
+      "추모",
+      "교육"
+    ],
+    "sourceRefs": [
+      "cambodia_memorial_sites_reuters"
+    ]
+  },
+  {
+    "id": "khm-symbol-angkor-wat",
+    "countryId": "cambodia",
+    "labelKo": "앙코르와트",
+    "labelEn": "Angkor Wat",
+    "labelLocal": "អង្គរវត្ត",
+    "aliases": [
+      "Angkor Wat",
+      "앙코르와트",
+      "អង្គរវត្ត"
+    ],
+    "symbolType": "national_heritage",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "deformation",
+      "mockery",
+      "cheap discount"
+    ],
+    "safeContexts": [
+      "관광 안내",
+      "문화 존중"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  },
+  {
+    "id": "khm-symbol-flag",
+    "countryId": "cambodia",
+    "labelKo": "캄보디아 국기",
+    "labelEn": "Cambodian flag",
+    "labelLocal": "ទង់ជាតិ",
+    "aliases": [
+      "Cambodia flag",
+      "국기",
+      "ទង់ជាតិ"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "cashback gimmick"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  },
+  {
+    "id": "khm-symbol-pagoda",
+    "countryId": "cambodia",
+    "labelKo": "불교 사원·파고다",
+    "labelEn": "Pagoda / Buddhist temple",
+    "labelLocal": "វត្ត",
+    "aliases": [
+      "pagoda",
+      "temple",
+      "wat",
+      "사원",
+      "វត្ត"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben",
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "discount mascot",
+      "meme"
+    ],
+    "safeContexts": [
+      "문화 안내",
+      "종교 행사"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-symbol-monk",
+    "countryId": "cambodia",
+    "labelKo": "승려 이미지",
+    "labelEn": "Buddhist monk",
+    "labelLocal": "ព្រះសង្ឃ",
+    "aliases": [
+      "monk",
+      "승려",
+      "스님",
+      "ព្រះសង្ឃ"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben",
+      "khm-national-symbols"
+    ],
+    "unsafeContexts": [
+      "cashback character",
+      "joke"
+    ],
+    "safeContexts": [
+      "종교 안내"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "vnm-symbol-tank390",
+    "countryId": "vietnam",
+    "labelKo": "390 전차·통일 상징",
+    "labelEn": "Tank 390",
+    "labelLocal": "Xe tăng 390",
+    "aliases": [
+      "Tank 390",
+      "xe tăng 390",
+      "전차"
+    ],
+    "symbolType": "war_victory_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-reunification-day"
+    ],
+    "unsafeContexts": [
+      "card event",
+      "discount mascot"
+    ],
+    "safeContexts": [
+      "역사기념"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-flag",
+    "countryId": "vietnam",
+    "labelKo": "베트남 국기",
+    "labelEn": "Vietnam flag",
+    "labelLocal": "cờ đỏ sao vàng",
+    "aliases": [
+      "Vietnam flag",
+      "red flag yellow star",
+      "베트남 국기"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day",
+      "vnm-reunification-day"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor design",
+      "cashback gimmick"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-star-flag",
+    "countryId": "vietnam",
+    "labelKo": "황성·붉은 깃발",
+    "labelEn": "Yellow star flag",
+    "labelLocal": "cờ đỏ sao vàng",
+    "aliases": [
+      "yellow star",
+      "red flag",
+      "cờ đỏ sao vàng"
+    ],
+    "symbolType": "national_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeContexts": [
+      "mockery",
+      "cheap sale"
+    ],
+    "safeContexts": [
+      "공식 기념"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-ba-dinh",
+    "countryId": "vietnam",
+    "labelKo": "바딘 광장",
+    "labelEn": "Ba Dinh Square",
+    "labelLocal": "Quảng trường Ba Đình",
+    "aliases": [
+      "Ba Dinh",
+      "바딘"
+    ],
+    "symbolType": "national_site",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeContexts": [
+      "discount event"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-orange-ribbon",
+    "countryId": "vietnam",
+    "labelKo": "주황색·고엽제 연상",
+    "labelEn": "Orange / Agent Orange visual",
+    "labelLocal": "màu da cam",
+    "aliases": [
+      "orange ribbon",
+      "orange smoke",
+      "주황색 고엽제"
+    ],
+    "symbolType": "war_victim_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeContexts": [
+      "cashback theme",
+      "orange discount"
+    ],
+    "safeContexts": [
+      "피해자 지원"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-symbol-war-helicopter",
+    "countryId": "vietnam",
+    "labelKo": "전쟁 헬기·폭격 이미지",
+    "labelEn": "War helicopter / bombing",
+    "labelLocal": "",
+    "aliases": [
+      "helicopter",
+      "bombing",
+      "napalm fire"
+    ],
+    "symbolType": "war_harm_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeContexts": [
+      "loan bomb",
+      "discount attack"
+    ],
+    "safeContexts": [
+      "역사교육"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-symbol-apricot-blossom",
+    "countryId": "vietnam",
+    "labelKo": "뗏 꽃 장식",
+    "labelEn": "Apricot blossom",
+    "labelLocal": "hoa mai",
+    "aliases": [
+      "hoa mai",
+      "apricot blossom",
+      "yellow blossom"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeContexts": [
+      "funeral parody"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-symbol-red-envelope",
+    "countryId": "vietnam",
+    "labelKo": "빨간 봉투",
+    "labelEn": "Red envelope",
+    "labelLocal": "bao lì xì",
+    "aliases": [
+      "red envelope",
+      "lì xì",
+      "세뱃돈 봉투"
+    ],
+    "symbolType": "holiday_money_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeContexts": [
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 혜택"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-symbol-temple",
+    "countryId": "vietnam",
+    "labelKo": "사원·조상 숭배 장소",
+    "labelEn": "Temple",
+    "labelLocal": "đền",
+    "aliases": [
+      "temple",
+      "đền",
+      "사원"
+    ],
+    "symbolType": "ancestral_religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-hung-kings"
+    ],
+    "unsafeContexts": [
+      "coupon mascot"
+    ],
+    "safeContexts": [
+      "공식 기념"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "mmr-symbol-three-finger-salute",
+    "countryId": "myanmar",
+    "labelKo": "세 손가락 경례",
+    "labelEn": "Three-finger salute",
+    "labelLocal": "",
+    "aliases": [
+      "three-finger salute",
+      "세 손가락",
+      "3 finger salute"
+    ],
+    "symbolType": "pro_democracy_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup",
+      "mmr-8888-uprising"
+    ],
+    "unsafeContexts": [
+      "promo pose",
+      "card design",
+      "discount"
+    ],
+    "safeContexts": [
+      "정치 기사",
+      "인권 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters",
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "mmr-symbol-red-ribbon",
+    "countryId": "myanmar",
+    "labelKo": "빨간 리본",
+    "labelEn": "Red ribbon",
+    "labelLocal": "",
+    "aliases": [
+      "red ribbon",
+      "빨간 리본"
+    ],
+    "symbolType": "cdm_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeContexts": [
+      "cashback ribbon"
+    ],
+    "safeContexts": [
+      "인권 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-symbol-pot-banging",
+    "countryId": "myanmar",
+    "labelKo": "냄비 두드리기",
+    "labelEn": "Pot-banging protest",
+    "labelLocal": "",
+    "aliases": [
+      "pot banging",
+      "pots and pans",
+      "냄비"
+    ],
+    "symbolType": "protest_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeContexts": [
+      "promo noise",
+      "discount"
+    ],
+    "safeContexts": [
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-symbol-burning-village",
+    "countryId": "myanmar",
+    "labelKo": "불탄 마을",
+    "labelEn": "Burning village",
+    "labelLocal": "",
+    "aliases": [
+      "burning village",
+      "fire",
+      "불탄 마을"
+    ],
+    "symbolType": "conflict_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeContexts": [
+      "cashback fire",
+      "loan fire"
+    ],
+    "safeContexts": [
+      "인권 리포트"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-symbol-refugee-camp",
+    "countryId": "myanmar",
+    "labelKo": "난민 캠프",
+    "labelEn": "Refugee camp",
+    "labelLocal": "",
+    "aliases": [
+      "refugee camp",
+      "난민 캠프"
+    ],
+    "symbolType": "humanitarian_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "joke"
+    ],
+    "safeContexts": [
+      "지원 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-symbol-peacock",
+    "countryId": "myanmar",
+    "labelKo": "공작 상징",
+    "labelEn": "Fighting peacock",
+    "labelLocal": "",
+    "aliases": [
+      "peacock",
+      "공작"
+    ],
+    "symbolType": "democracy_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-8888-uprising"
+    ],
+    "unsafeContexts": [
+      "cashback mascot"
+    ],
+    "safeContexts": [
+      "문화/정치 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-water-splash",
+    "countryId": "myanmar",
+    "labelKo": "물 뿌림",
+    "labelEn": "Water splash",
+    "labelLocal": "",
+    "aliases": [
+      "water splash",
+      "물뿌리기"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "mmr-thingyan"
+    ],
+    "unsafeContexts": [
+      "disaster drowning metaphor"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-pagoda",
+    "countryId": "myanmar",
+    "labelKo": "파고다",
+    "labelEn": "Pagoda",
+    "labelLocal": "ဘုရား",
+    "aliases": [
+      "pagoda",
+      "파고다",
+      "Shwedagon"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "discount"
+    ],
+    "safeContexts": [
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-shwedagon",
+    "countryId": "myanmar",
+    "labelKo": "쉐다곤 파고다",
+    "labelEn": "Shwedagon Pagoda",
+    "labelLocal": "ရွှေတိဂုံ",
+    "aliases": [
+      "Shwedagon",
+      "쉐다곤"
+    ],
+    "symbolType": "religious_national_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "card design gimmick"
+    ],
+    "safeContexts": [
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-monk",
+    "countryId": "myanmar",
+    "labelKo": "승려 이미지",
+    "labelEn": "Monk image",
+    "labelLocal": "ဘုန်းကြီး",
+    "aliases": [
+      "monk image",
+      "승려"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "promo mascot"
+    ],
+    "safeContexts": [
+      "종교 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "chn-symbol-prc-flag",
+    "countryId": "china",
+    "labelKo": "중국 국기",
+    "labelEn": "PRC flag",
+    "labelLocal": "五星红旗",
+    "aliases": [
+      "Chinese flag",
+      "五星红旗",
+      "오성홍기"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-prc-national-day"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "wrong map"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-tiananmen",
+    "countryId": "china",
+    "labelKo": "천안문 이미지",
+    "labelEn": "Tiananmen visual",
+    "labelLocal": "天安门",
+    "aliases": [
+      "Tiananmen image",
+      "천안문"
+    ],
+    "symbolType": "national_and_political_site",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-prc-national-day",
+      "chn-tiananmen-june4"
+    ],
+    "unsafeContexts": [
+      "promo joke",
+      "tank visual"
+    ],
+    "safeContexts": [
+      "관광/역사 안내"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-taiwan-flag",
+    "countryId": "china",
+    "labelKo": "대만 국기",
+    "labelEn": "Taiwan flag",
+    "labelLocal": "青天白日满地红",
+    "aliases": [
+      "Taiwan flag",
+      "ROC flag",
+      "대만 국기"
+    ],
+    "symbolType": "sovereignty_sensitive_flag",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty"
+    ],
+    "unsafeContexts": [
+      "used_as_country_flag_in_prc_campaign",
+      "wrong protocol"
+    ],
+    "safeContexts": [
+      "대만 고객 프로토콜에서 검토"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-map",
+    "countryId": "china",
+    "labelKo": "중국 지도",
+    "labelEn": "China map",
+    "labelLocal": "中国地图",
+    "aliases": [
+      "China map",
+      "지도",
+      "map"
+    ],
+    "symbolType": "sovereignty_sensitive_map",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-taiwan-sovereignty",
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "missing Taiwan",
+      "mislabel Hong Kong",
+      "separate Tibet/Xinjiang"
+    ],
+    "safeContexts": [
+      "검토된 공식 지도"
+    ],
+    "sourceRefs": [
+      "china_taiwan_flag_reuters",
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-hk-protest",
+    "countryId": "china",
+    "labelKo": "홍콩 시위 상징",
+    "labelEn": "Hong Kong protest symbols",
+    "labelLocal": "",
+    "aliases": [
+      "umbrella",
+      "black bauhinia",
+      "protest flag"
+    ],
+    "symbolType": "political_protest_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "discount"
+    ],
+    "safeContexts": [
+      "뉴스/역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-uyghur",
+    "countryId": "china",
+    "labelKo": "위구르 상징",
+    "labelEn": "Uyghur symbol",
+    "labelLocal": "",
+    "aliases": [
+      "Uyghur flag",
+      "East Turkestan flag"
+    ],
+    "symbolType": "ethnic_political_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "stereotype"
+    ],
+    "safeContexts": [
+      "인권/문화 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-tibetan-flag",
+    "countryId": "china",
+    "labelKo": "티베트 국기·상징",
+    "labelEn": "Tibetan flag",
+    "labelLocal": "",
+    "aliases": [
+      "Tibetan flag",
+      "snow lion flag"
+    ],
+    "symbolType": "political_religious_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-hk-tibet-xinjiang"
+    ],
+    "unsafeContexts": [
+      "card design",
+      "promo"
+    ],
+    "safeContexts": [
+      "문화/역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-tank-man",
+    "countryId": "china",
+    "labelKo": "탱크맨 이미지",
+    "labelEn": "Tank Man image",
+    "labelLocal": "",
+    "aliases": [
+      "tank man",
+      "man before tank"
+    ],
+    "symbolType": "political_memory_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "chn-tiananmen-june4"
+    ],
+    "unsafeContexts": [
+      "loan tank",
+      "card visual"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters"
+    ]
+  },
+  {
+    "id": "chn-symbol-red-envelope",
+    "countryId": "china",
+    "labelKo": "홍바오 봉투",
+    "labelEn": "Red envelope",
+    "labelLocal": "红包",
+    "aliases": [
+      "red envelope",
+      "红包",
+      "홍바오"
+    ],
+    "symbolType": "holiday_money_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeContexts": [
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 송금/캐시백"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "chn-symbol-dragon",
+    "countryId": "china",
+    "labelKo": "용",
+    "labelEn": "Dragon",
+    "labelLocal": "龙",
+    "aliases": [
+      "dragon",
+      "용",
+      "龙"
+    ],
+    "symbolType": "cultural_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "chn-lunar-new-year"
+    ],
+    "unsafeContexts": [
+      "insulting distortion"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "china_national_day"
+    ]
+  },
+  {
+    "id": "tha-symbol-royal-portrait",
+    "countryId": "thailand",
+    "labelKo": "왕실 초상",
+    "labelEn": "Royal portrait",
+    "labelLocal": "พระบรมฉายาลักษณ์",
+    "aliases": [
+      "royal portrait",
+      "king portrait",
+      "왕실 초상"
+    ],
+    "symbolType": "monarchy_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112",
+      "tha-royal-days"
+    ],
+    "unsafeContexts": [
+      "ad parody",
+      "cashback design",
+      "app icon"
+    ],
+    "safeContexts": [
+      "공식 존중"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-symbol-yellow-royal",
+    "countryId": "thailand",
+    "labelKo": "왕실 노란색 상징",
+    "labelEn": "Royal yellow",
+    "labelLocal": "สีเหลือง",
+    "aliases": [
+      "yellow royal color",
+      "왕실 노란색",
+      "สีเหลือง"
+    ],
+    "symbolType": "monarchy_color_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-monarchy-article112",
+      "tha-royal-days"
+    ],
+    "unsafeContexts": [
+      "political attack",
+      "royal discount"
+    ],
+    "safeContexts": [
+      "공식 행사"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-thai-baht",
+    "countryId": "thailand",
+    "labelKo": "태국 바트화·국왕 초상 지폐",
+    "labelEn": "Thai baht banknote",
+    "labelLocal": "เงินบาท",
+    "aliases": [
+      "Thai baht",
+      "banknote",
+      "지폐",
+      "เงินบาท"
+    ],
+    "symbolType": "currency_royal_image",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "cutout",
+      "meme"
+    ],
+    "safeContexts": [
+      "환전 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-symbol-buddha-head",
+    "countryId": "thailand",
+    "labelKo": "불두·불상 머리",
+    "labelEn": "Buddha head",
+    "labelLocal": "พระเศียรพระพุทธรูป",
+    "aliases": [
+      "Buddha head",
+      "불두",
+      "Buddha image"
+    ],
+    "symbolType": "religious_sacred_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "logo",
+      "coupon",
+      "mascot"
+    ],
+    "safeContexts": [
+      "문화/종교 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-temple",
+    "countryId": "thailand",
+    "labelKo": "태국 사원",
+    "labelEn": "Thai temple",
+    "labelLocal": "วัด",
+    "aliases": [
+      "wat",
+      "temple",
+      "사원"
+    ],
+    "symbolType": "religious_place_visual",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "discount background"
+    ],
+    "safeContexts": [
+      "관광/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-monk",
+    "countryId": "thailand",
+    "labelKo": "승려 이미지",
+    "labelEn": "Monk image",
+    "labelLocal": "พระสงฆ์",
+    "aliases": [
+      "monk image",
+      "승려"
+    ],
+    "symbolType": "religious_person_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "cashback mascot",
+      "joke"
+    ],
+    "safeContexts": [
+      "종교/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-water-splash",
+    "countryId": "thailand",
+    "labelKo": "물 축제 이미지",
+    "labelEn": "Water splash",
+    "labelLocal": "สาดน้ำ",
+    "aliases": [
+      "water splash",
+      "water gun",
+      "물축제"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeContexts": [
+      "drowning joke"
+    ],
+    "safeContexts": [
+      "송끄란 프로모션"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-floral-shirt",
+    "countryId": "thailand",
+    "labelKo": "송끄란 꽃무늬 셔츠",
+    "labelEn": "Songkran floral shirt",
+    "labelLocal": "เสื้อลายดอก",
+    "aliases": [
+      "floral shirt",
+      "꽃무늬 셔츠"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeContexts": [
+      "political color confusion"
+    ],
+    "safeContexts": [
+      "명절 프로모션"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-three-finger-salute",
+    "countryId": "thailand",
+    "labelKo": "세 손가락 경례",
+    "labelEn": "Three-finger salute",
+    "labelLocal": "ชูสามนิ้ว",
+    "aliases": [
+      "three finger salute",
+      "세 손가락 경례"
+    ],
+    "symbolType": "protest_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeContexts": [
+      "card benefit pose",
+      "youth promo"
+    ],
+    "safeContexts": [
+      "정치 보도"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "tha-symbol-red-yellow-shirts",
+    "countryId": "thailand",
+    "labelKo": "정치색 셔츠",
+    "labelEn": "Red/yellow shirts",
+    "labelLocal": "เสื้อแดง/เสื้อเหลือง",
+    "aliases": [
+      "red shirt",
+      "yellow shirt",
+      "red/yellow"
+    ],
+    "symbolType": "political_color_visual",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeContexts": [
+      "targeted campaign"
+    ],
+    "safeContexts": [
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  }
+]

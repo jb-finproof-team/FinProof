@@ -1,0 +1,16 @@
+[
+  {
+    "id": "safe-china-spring-festival-red-envelope",
+    "countryId": "china",
+    "text": "Spring Festival red envelope cashback",
+    "expectedRisk": "info",
+    "reason": "춘절 홍바오 문화와 금융 혜택의 일반적 결합"
+  },
+  {
+    "id": "safe-china-hk-branch-info",
+    "countryId": "china",
+    "text": "Hong Kong branch remittance guide",
+    "expectedRisk": "info",
+    "reason": "지역명으로서의 홍콩 지점 안내"
+  }
+]

@@ -1,0 +1,26 @@
+﻿id,countryId,plannedPublishDate,text,productType,channelType,expectedRiskLevel,expectedSuggestedAction,expectedMatchedRuleIds,reason
+khm-001,cambodia,2026-04-17,Killing Fields급 수익률 이벤트,investment,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]","크메르루주 관련 민감 날짜와 제노사이드 표현, 수익률 프로모션 결합"
+khm-002,cambodia,2026-09-15,Pchum Ben 가족 송금 수수료 우대,remittance,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",프춤번 가족 송금 안내로 비교적 안전
+khm-003,cambodia,2026-05-20,S-21 제로 수수료 특가,card,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",추모일+S-21+금융 혜택
+khm-004,cambodia,2026-01-07,Angkor Wat 카드 디자인,card,"[""card_design""]",caution,hold,"[""national_symbol_distortion_finance_promo""]",국가 유산 상징 사용 방식 검토 필요
+vnm-001,vietnam,2026-04-30,Fall of Saigon급 금리 하락 이벤트,loan,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",4/30 전쟁 기억+금리 하락 은유
+vnm-002,vietnam,2026-09-02,Quốc khánh 기념 송금 수수료 안내,remittance,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",국경일 중립 안내/혜택
+vnm-003,vietnam,2026-02-01,Agent Orange 캐시백 오렌지 이벤트,card,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",고엽제 피해 표현과 캐시백 테마 결합
+vnm-004,vietnam,2026-02-15,Tết 가족 송금 수수료 할인,remittance,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",뗏 명절 송금 혜택
+mmr-001,myanmar,2026-02-01,CDM 캐시백 응원 이벤트,card,"[""SNS""]",high,hold,"[""political_protest_symbol_financial_promo""]",쿠데타 기념일과 시위 상징+금융혜택 결합
+mmr-002,myanmar,2026-04-15,Thingyan 가족 송금 수수료 면제,remittance,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",띤잔 명절 송금 안내
+mmr-003,myanmar,2026-08-08,8888급 대출 한도 이벤트,loan,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",8888 민주화 항쟁 날짜와 대출 이벤트 결합
+mmr-004,myanmar,2026-06-01,Rohingya remittance joke campaign,remittance,"[""SNS""]",high,hold,"[""ethnic_conflict_or_refugee_financial_stereotype""]",난민/민족 민감 이슈를 마케팅 농담으로 사용
+chn-001,china,2026-10-01,国庆节 카드 혜택 안내,card,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",국경절 금융 안내로 정상 맥락
+chn-002,china,2026-10-01,대만 국기를 국가 목록에 단독 표시한 송금 광고,remittance,"[""landing_page""]",high,hold,"[""sovereignty_map_flag_protocol_error""]",대만 국기/국가 표기 프로토콜 오류
+chn-003,china,2026-06-04,Tank Man급 금리 이벤트,loan,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",천안문 6/4 관련 상징+금융 프로모션
+chn-004,china,2026-02-20,春节红包 캐시백,card,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",춘절 홍바오 맥락의 일반 금융 혜택
+tha-001,thailand,2026-07-28,Royal cashback king 이벤트,card,"[""SNS""]",high,hold,"[""monarchy_or_royal_symbol_financial_joke""]",태국 왕실 표현과 캐시백/이벤트 결합
+tha-002,thailand,2026-04-13,Songkran 가족 송금 수수료 할인,remittance,"[""app_banner""]",info,approve,"[""holiday_financial_promo_safe""]",송끄란 가족 송금 안내
+tha-003,thailand,2026-05-22,세 손가락 경례 카드 혜택 포즈,card,"[""card_design""]",high,hold,"[""political_protest_symbol_financial_promo""]",쿠데타/시위 상징을 카드 프로모션에 사용
+tha-004,thailand,2026-03-01,Buddha loan mascot,loan,"[""SNS""]",high,hold,"[""sacred_religious_symbol_commercial_gimmick""]",불교 성스러운 상징을 대출 마스코트로 사용
+khm-005,cambodia,2026-05-20,Year Zero 수수료 0원 캠페인,card,"[""SNS""]",high,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",Year Zero를 수수료 제로 마케팅으로 사용
+vnm-005,vietnam,2026-04-30,30/4 Victory 캐시백,card,"[""SNS""]",caution,hold,"[""country_sensitive_date_trauma_metaphor_finance_promo""]",국가 기념일 정치/전쟁 표현과 상업 혜택 결합 가능
+mmr-005,myanmar,2026-02-01,တပ်မတော် loan power event,loan,"[""SNS""]",high,hold,"[""political_protest_symbol_financial_promo""]",군부 상징을 대출 이벤트로 사용
+chn-005,china,2026-10-01,중국 지도에서 대만·홍콩·신장을 별도 국가로 표시,remittance,"[""landing_page""]",high,hold,"[""sovereignty_map_flag_protocol_error""]",지도/국가 목록 프로토콜 오류
+tha-005,thailand,2026-12-05,국왕 초상화 배경의 대출 특가,loan,"[""app_banner""]",high,hold,"[""monarchy_or_royal_symbol_financial_joke""]",왕실 기념일과 금융 프로모션 결합

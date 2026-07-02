@@ -184,13 +184,18 @@ function agentTypeFromSourceAgents(sourceAgents: string[]): AgentFindingCandidat
     return "creative";
   }
 
+  if (sourceAgent === "social_context_review") {
+    return "social_context";
+  }
+
   if (
     sourceAgent === "main" ||
     sourceAgent === "creative" ||
     sourceAgent === "product_terms" ||
     sourceAgent === "regulation" ||
     sourceAgent === "internal_policy" ||
-    sourceAgent === "case_search"
+    sourceAgent === "case_search" ||
+    sourceAgent === "social_context"
   ) {
     return sourceAgent;
   }

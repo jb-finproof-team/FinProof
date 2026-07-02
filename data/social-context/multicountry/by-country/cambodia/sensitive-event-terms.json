@@ -1,0 +1,285 @@
+[
+  {
+    "id": "khm-term-killing-fields",
+    "countryId": "cambodia",
+    "labelKo": "킬링필드",
+    "labelEn": "Killing Fields",
+    "labelLocal": "វាលពិឃាត",
+    "aliases": [
+      "킬링필드",
+      "Killing Fields",
+      "killing field"
+    ],
+    "termType": "genocide_memory",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "할인",
+      "세일",
+      "금리",
+      "수익률",
+      "cashback",
+      "game"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "추모",
+      "보도"
+    ],
+    "sourceRefs": [
+      "cambodia_genocide"
+    ]
+  },
+  {
+    "id": "khm-term-tuol-sleng",
+    "countryId": "cambodia",
+    "labelKo": "뚜얼슬랭·S-21",
+    "labelEn": "Tuol Sleng / S-21",
+    "labelLocal": "ទួលស្លែង",
+    "aliases": [
+      "뚜얼슬랭",
+      "Tuol Sleng",
+      "S-21",
+      "Security Prison 21"
+    ],
+    "termType": "genocide_site",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "loan",
+      "rate",
+      "promo",
+      "discount"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "박물관 안내",
+      "추모"
+    ],
+    "sourceRefs": [
+      "cambodia_memorial_sites_reuters"
+    ]
+  },
+  {
+    "id": "khm-term-year-zero",
+    "countryId": "cambodia",
+    "labelKo": "Year Zero",
+    "labelEn": "Year Zero",
+    "labelLocal": "ឆ្នាំសូន្យ",
+    "aliases": [
+      "Year Zero",
+      "제로부터 시작",
+      "0년"
+    ],
+    "termType": "regime_slogan",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "zero_fee",
+      "zero_interest",
+      "new_start_promo"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "cambodia_genocide"
+    ]
+  },
+  {
+    "id": "khm-term-pol-pot",
+    "countryId": "cambodia",
+    "labelKo": "폴 포트",
+    "labelEn": "Pol Pot",
+    "labelLocal": "ប៉ុល ពត",
+    "aliases": [
+      "Pol Pot",
+      "폴 포트"
+    ],
+    "termType": "dictator_reference",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "khm-khmer-rouge-genocide"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "joke",
+      "promo",
+      "nickname"
+    ],
+    "safeContexts": [
+      "역사교육",
+      "보도"
+    ],
+    "sourceRefs": [
+      "cambodia_genocide"
+    ]
+  },
+  {
+    "id": "khm-term-ancestor",
+    "countryId": "cambodia",
+    "labelKo": "조상·선조",
+    "labelEn": "Ancestor",
+    "labelLocal": "ដូនតា",
+    "aliases": [
+      "ancestor",
+      "조상",
+      "ដូនតា"
+    ],
+    "termType": "ancestor_memorial",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "discount",
+      "ghost_promo",
+      "dead_rate"
+    ],
+    "safeContexts": [
+      "추모",
+      "종교행사",
+      "가족 안내"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-term-ghost",
+    "countryId": "cambodia",
+    "labelKo": "영혼·귀신",
+    "labelEn": "spirit / ghost",
+    "labelLocal": "ខ្មោច",
+    "aliases": [
+      "ghost",
+      "spirit",
+      "영혼",
+      "귀신"
+    ],
+    "termType": "religious_afterlife",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "cashback",
+      "ghost discount",
+      "dead rate"
+    ],
+    "safeContexts": [
+      "종교 설명",
+      "민속 소개"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-term-offering",
+    "countryId": "cambodia",
+    "labelKo": "공양·제물",
+    "labelEn": "offering",
+    "labelLocal": "បាយបិណ្ឌ",
+    "aliases": [
+      "공양",
+      "제물",
+      "offering",
+      "rice balls"
+    ],
+    "termType": "religious_offering",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-pchum-ben"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "금융혜택",
+      "쿠폰",
+      "이벤트"
+    ],
+    "safeContexts": [
+      "종교 설명",
+      "공식 행사"
+    ],
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-term-king",
+    "countryId": "cambodia",
+    "labelKo": "국왕·왕실",
+    "labelEn": "King / Royal family",
+    "labelLocal": "ព្រះមហាក្សត្រ",
+    "aliases": [
+      "King",
+      "Royal",
+      "국왕",
+      "왕실",
+      "ព្រះមហាក្សត្រ"
+    ],
+    "termType": "monarchy",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "joke",
+      "discount",
+      "loan_name"
+    ],
+    "safeContexts": [
+      "공식 존중 표현",
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  },
+  {
+    "id": "khm-term-buddhism",
+    "countryId": "cambodia",
+    "labelKo": "불교·스님",
+    "labelEn": "Buddhism / monk",
+    "labelLocal": "ព្រះពុទ្ធសាសនា",
+    "aliases": [
+      "불교",
+      "스님",
+      "Buddha",
+      "monk",
+      "ព្រះពុទ្ធសាសនា"
+    ],
+    "termType": "religion",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "khm-national-symbols",
+      "khm-pchum-ben"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "cashback",
+      "coupon",
+      "meme"
+    ],
+    "safeContexts": [
+      "종교 안내",
+      "문화 소개"
+    ],
+    "sourceRefs": [
+      "cambodia_national_symbols"
+    ]
+  }
+]

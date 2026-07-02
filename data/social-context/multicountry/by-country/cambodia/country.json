@@ -1,0 +1,21 @@
+{
+  "countryId": "cambodia",
+  "nameKo": "캄보디아",
+  "nameEn": "Cambodia",
+  "nameLocal": "កម្ពុជា",
+  "priorityForJB": "A",
+  "relationshipType": [
+    "overseas_business",
+    "ppcbank",
+    "khmer_language_marketing"
+  ],
+  "languages": [
+    "km",
+    "en"
+  ],
+  "businessRationale": "JB금융그룹의 캄보디아 PPCBank 접점과 국내외 크메르어 고객 커뮤니케이션 가능성",
+  "sourceRefs": [
+    "jb_ppcbank",
+    "jb_group"
+  ]
+}

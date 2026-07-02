@@ -1,0 +1,82 @@
+[
+  {
+    "id": "vnm-001",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-04-30",
+    "text": "Fall of Saigon급 금리 하락 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "4/30 전쟁 기억+금리 하락 은유"
+  },
+  {
+    "id": "vnm-002",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-09-02",
+    "text": "Quốc khánh 기념 송금 수수료 안내",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "국경일 중립 안내/혜택"
+  },
+  {
+    "id": "vnm-003",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-02-01",
+    "text": "Agent Orange 캐시백 오렌지 이벤트",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "고엽제 피해 표현과 캐시백 테마 결합"
+  },
+  {
+    "id": "vnm-004",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-02-15",
+    "text": "Tết 가족 송금 수수료 할인",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "뗏 명절 송금 혜택"
+  },
+  {
+    "id": "vnm-005",
+    "countryId": "vietnam",
+    "plannedPublishDate": "2026-04-30",
+    "text": "30/4 Victory 캐시백",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "caution",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "국가 기념일 정치/전쟁 표현과 상업 혜택 결합 가능"
+  }
+]

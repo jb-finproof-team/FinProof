@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case-vietnam-agent-orange-commercial-theme",
+    "countryId": "vietnam",
+    "title": "고엽제·전쟁 피해 표현의 금융 혜택 테마화 리스크",
+    "triggerTerms": [
+      "Agent Orange",
+      "napalm",
+      "war"
+    ],
+    "riskPatternIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "lesson": "전쟁 피해·화학 피해 표현은 수익률/캐시백/색상 테마로 쓰지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  }
+]

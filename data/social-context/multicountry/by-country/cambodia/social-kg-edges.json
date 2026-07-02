@@ -1,0 +1,426 @@
+[
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-04-17",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-05-20",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "hasSensitiveDate",
+    "to": "date-01-07",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-killing-fields",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-tuol-sleng",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-year-zero",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedTerm",
+    "to": "khm-term-pol-pot",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-skull-memorial",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-choeung-ek-stupa",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-survivors",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-victims-families",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-khmer-rouge-genocide",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "hasSensitiveDate",
+    "to": "date-khmer-lunar-10th-month",
+    "weight": 1.0,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-ancestor",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-ghost",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedTerm",
+    "to": "khm-term-offering",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-pagoda",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-monk",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-pchum-ben",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedTerm",
+    "to": "khm-term-king",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedTerm",
+    "to": "khm-term-buddhism",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-angkor-wat",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "associatedSymbol",
+    "to": "khm-symbol-flag",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-cambodian-public",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-national-symbols",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-killing-fields",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-tuol-sleng",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-year-zero",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-pol-pot",
+    "relation": "termOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-ancestor",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-ghost",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-offering",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-king",
+    "relation": "termOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-skull-memorial",
+    "relation": "symbolOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-choeung-ek-stupa",
+    "relation": "symbolOfEvent",
+    "to": "khm-khmer-rouge-genocide",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-angkor-wat",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-flag",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "khm-pchum-ben",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "khm-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "khm-national-symbols",
+    "weight": 0.9,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "cambodia",
+    "weight": 0.6,
+    "countryId": "cambodia",
+    "note": ""
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "case-cambodia-genocide-commercial-metaphor",
+    "countryId": "cambodia",
+    "title": "제노사이드·킬링필드 표현의 상업적 은유 사용 리스크",
+    "triggerTerms": [
+      "Killing Fields",
+      "Year Zero",
+      "S-21"
+    ],
+    "riskPatternIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "lesson": "학살·감옥·유해 추모 상징은 금융 혜택/할인 은유로 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "cambodia_genocide",
+      "cambodia_memorial_sites_reuters"
+    ]
+  },
+  {
+    "id": "case-vietnam-agent-orange-commercial-theme",
+    "countryId": "vietnam",
+    "title": "고엽제·전쟁 피해 표현의 금융 혜택 테마화 리스크",
+    "triggerTerms": [
+      "Agent Orange",
+      "napalm",
+      "war"
+    ],
+    "riskPatternIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "lesson": "전쟁 피해·화학 피해 표현은 수익률/캐시백/색상 테마로 쓰지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "case-myanmar-protest-symbol-card-design",
+    "countryId": "myanmar",
+    "title": "세 손가락 경례·CDM 상징의 카드 혜택 이미지화 리스크",
+    "triggerTerms": [
+      "three-finger salute",
+      "CDM",
+      "red ribbon"
+    ],
+    "riskPatternIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "lesson": "정치 시위 상징은 카드·대출·쿠폰 그래픽에 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "myanmar_coup_reuters",
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "case-china-taiwan-flag-protocol-error",
+    "countryId": "china",
+    "title": "대만 국기·중국 지도/국가 표기 오류 리스크",
+    "triggerTerms": [
+      "Taiwan flag",
+      "Chinese Taipei",
+      "map"
+    ],
+    "riskPatternIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "lesson": "국기·지도·국가 목록은 사전 승인된 프로토콜만 사용한다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "id": "case-thailand-monarchy-commercial-joke",
+    "countryId": "thailand",
+    "title": "왕실·국왕 상징의 금융 프로모션 소재화 리스크",
+    "triggerTerms": [
+      "King",
+      "Article 112",
+      "royal portrait"
+    ],
+    "riskPatternIds": [
+      "monarchy_or_royal_symbol_financial_joke"
+    ],
+    "lesson": "왕실 상징은 금융상품명·캐시백·밈 소재로 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  }
+]

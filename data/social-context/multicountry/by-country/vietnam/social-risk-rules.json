@@ -1,0 +1,128 @@
+[
+  {
+    "id": "country_sensitive_date_trauma_metaphor_finance_promo",
+    "nameKo": "민감 날짜 + 참사·전쟁 은유 + 금융 홍보 표현",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "myanmar",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "dateMatchesSensitiveEvent": true,
+      "containsSensitiveTermTypeAny": [
+        "genocide_memory",
+        "war_harm",
+        "political_memory_symbol",
+        "state_violence",
+        "humanitarian_visual"
+      ],
+      "containsFinancialPromoTerm": true,
+      "campaignIntentAnyOf": [
+        "promotion",
+        "financial_product_ad"
+      ]
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "민감 사건의 날짜와 관련 표현이 금융상품 혜택·금리·수익률·캐시백 문맥과 결합되어 사회적 고통을 상업적 은유로 소비할 가능성이 큽니다.",
+    "examples": [
+      "4/17 Killing Fields급 수익률",
+      "30/4 Fall-rate 이벤트",
+      "2/1 Coup 금리",
+      "6/4 Tank-rate 혜택"
+    ]
+  },
+  {
+    "id": "sacred_religious_symbol_commercial_gimmick",
+    "nameKo": "종교·성스러운 상징 + 금융 프로모션 캐릭터화",
+    "countryIds": [
+      "cambodia",
+      "myanmar",
+      "thailand",
+      "vietnam"
+    ],
+    "conditions": {
+      "containsSymbolTypeAny": [
+        "religious_symbol",
+        "religious_sacred_visual",
+        "religious_person_visual",
+        "ancestral_religious_symbol"
+      ],
+      "containsFinancialPromoTerm": true,
+      "campaignIntentAnyOf": [
+        "promotion",
+        "financial_product_ad"
+      ],
+      "safeCulturalContext": false
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "불상·승려·사원·조상 숭배 등 성스러운 상징을 캐시백·대출·카드 혜택의 장난스러운 소재로 사용하는 경우 종교·문화적 모욕으로 해석될 수 있습니다.",
+    "examples": [
+      "Buddha cashback mascot",
+      "Monk loan event",
+      "Pagoda fee discount"
+    ]
+  },
+  {
+    "id": "national_symbol_distortion_finance_promo",
+    "nameKo": "국기·국가상징 변형 + 금융 프로모션",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "containsSymbolTypeAny": [
+        "national_flag",
+        "national_symbol",
+        "national_heritage",
+        "national_site"
+      ],
+      "containsFinancialPromoTerm": true,
+      "symbolDistortedOrUsedAsPriceTag": true
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "국기·국가 유산·국가적 장소를 가격표, 쿠폰, 장난스러운 그래픽으로 변형하면 국가 모욕·브랜드 리스크가 발생할 수 있습니다.",
+    "examples": [
+      "Angkor Wat coupon cutout",
+      "Vietnam flag cashback pattern",
+      "Tiananmen discount graphic"
+    ]
+  },
+  {
+    "id": "holiday_financial_promo_safe",
+    "nameKo": "명절 금융 프로모션 안전 맥락",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "myanmar",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "campaignIntentAnyOf": [
+        "promotion",
+        "financial_product_ad"
+      ],
+      "eventTypeAny": [
+        "family_holiday",
+        "new_year",
+        "water_festival"
+      ],
+      "containsNoSacredMockery": true
+    },
+    "riskLevel": "info",
+    "suggestedAction": "approve",
+    "rationaleTemplate": "명절 송금·카드 혜택·계좌 안내는 가능하나 종교·정치·피해자 조롱 표현이 없는지 확인해야 합니다.",
+    "examples": [
+      "Tet remittance fee discount",
+      "Songkran transfer fee waiver",
+      "Spring Festival red envelope cashback"
+    ]
+  }
+]

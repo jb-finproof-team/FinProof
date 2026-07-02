@@ -1,0 +1,16 @@
+[
+  {
+    "id": "safe-thailand-songkran-transfer",
+    "countryId": "thailand",
+    "text": "Songkran family remittance guide",
+    "expectedRisk": "info",
+    "reason": "송끄란 가족 송금 안내"
+  },
+  {
+    "id": "safe-thailand-temple-travel-info",
+    "countryId": "thailand",
+    "text": "Thai temple cultural travel guide included in card travel content",
+    "expectedRisk": "caution",
+    "reason": "문화 안내 맥락이지만 불상/승려 이미지 사용 방식 검토 필요"
+  }
+]

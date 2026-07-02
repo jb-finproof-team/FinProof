@@ -39,6 +39,7 @@ import {
   type AgentFinding,
   type ReviewSubAgentOrchestrator
 } from "./review-subagents";
+import { runSocialContextRiskAgent, type SocialContextMatch } from "@/server/social-context";
 import { execFile } from "node:child_process";
 import { mkdtemp, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
@@ -95,6 +96,7 @@ export type AnalysisArtifacts = {
   localizedRiskFindings?: LocalizedRiskFinding[];
   koreanComplianceMappings?: KoreanComplianceMapping[];
   multilingualAgentErrors?: MultilingualAgentError[];
+  socialContextMatches?: SocialContextMatch[];
 };
 
 type OcrExtractInput = {
@@ -1423,13 +1425,18 @@ function agentTypeForIssue(issue: ReviewIssue): AgentType {
     return "creative";
   }
 
+  if (sourceAgent === "social_context_review") {
+    return "social_context";
+  }
+
   if (
     sourceAgent === "main" ||
     sourceAgent === "creative" ||
     sourceAgent === "product_terms" ||
     sourceAgent === "regulation" ||
     sourceAgent === "internal_policy" ||
-    sourceAgent === "case_search"
+    sourceAgent === "case_search" ||
+    sourceAgent === "social_context"
   ) {
     return sourceAgent;
   }
@@ -1585,10 +1592,19 @@ export function createReviewAnalysisPipeline({
         query,
         candidates: retrievedCandidates
       });
-      const evidenceCandidates = selectEvidenceCandidates(rerankedCandidates, {
+      const baseEvidenceCandidates = selectEvidenceCandidates(rerankedCandidates, {
         minScore: config.rag.minScore,
         topK: config.rerank.topK
       });
+      const socialContextResult = await runSocialContextRiskAgent({
+        review,
+        extractedDocuments: analysisDocuments,
+        existingEvidenceCandidates: baseEvidenceCandidates
+      });
+      const evidenceCandidates = [
+        ...baseEvidenceCandidates,
+        ...socialContextResult.evidenceCandidates
+      ];
       const multilingualSegments = segmentMultilingualDocuments(analysisDocuments);
       const multilingualResult =
         multilingualSegments.length > 0
@@ -1608,10 +1624,10 @@ export function createReviewAnalysisPipeline({
         review,
         extractedDocuments: analysisDocuments,
         evidenceCandidates,
-        priorFindings: multilingualResult.agentFindings
+        priorFindings: [...socialContextResult.agentFindings, ...multilingualResult.agentFindings]
       });
       const agentFindings = combineAgentFindings(
-        multilingualResult.agentFindings,
+        [...socialContextResult.agentFindings, ...multilingualResult.agentFindings],
         orchestratedFindings
       );
       const artifacts = {
@@ -1620,6 +1636,9 @@ export function createReviewAnalysisPipeline({
         ...(extractionDiagnostics.length > 0 ? { extractionDiagnostics } : {}),
         evidenceCandidates,
         ...(agentFindings.length > 0 ? { agentFindings } : {}),
+        ...(socialContextResult.matches.length > 0
+          ? { socialContextMatches: socialContextResult.matches }
+          : {}),
         ...(multilingualSegments.length > 0 ? { multilingualSegments } : {}),
         ...(multilingualResult.localizedRiskFindings.length > 0
           ? { localizedRiskFindings: multilingualResult.localizedRiskFindings }

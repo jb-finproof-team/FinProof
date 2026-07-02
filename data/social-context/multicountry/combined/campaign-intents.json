@@ -1,0 +1,77 @@
+[
+  {
+    "id": "promotion",
+    "labelKo": "상업 프로모션",
+    "aliases": [
+      "할인",
+      "특가",
+      "혜택",
+      "이벤트",
+      "쿠폰",
+      "오늘만",
+      "한정",
+      "증정",
+      "cashback",
+      "discount",
+      "promo",
+      "deal",
+      "ưu đãi",
+      "khuyến mãi",
+      "โปรโมชั่น",
+      "ส่วนลด",
+      "优惠"
+    ],
+    "commercialityWeight": 1.0
+  },
+  {
+    "id": "financial_product_ad",
+    "labelKo": "금융상품 광고",
+    "aliases": [
+      "금리",
+      "대출",
+      "예금",
+      "적금",
+      "수익률",
+      "캐시백",
+      "수수료",
+      "한도",
+      "송금",
+      "loan",
+      "rate",
+      "deposit",
+      "remittance"
+    ],
+    "commercialityWeight": 0.9
+  },
+  {
+    "id": "commemoration",
+    "labelKo": "추모·기억·교육",
+    "aliases": [
+      "추모",
+      "기억",
+      "헌정",
+      "묵념",
+      "교육",
+      "역사",
+      "memorial",
+      "remember",
+      "commemorate",
+      "education"
+    ],
+    "commercialityWeight": 0.1
+  },
+  {
+    "id": "neutral_information",
+    "labelKo": "중립 정보 제공",
+    "aliases": [
+      "안내",
+      "공지",
+      "FAQ",
+      "설명",
+      "guide",
+      "notice",
+      "information"
+    ],
+    "commercialityWeight": 0.2
+  }
+]

@@ -27,6 +27,7 @@ export type ReviewSubAgentId =
   | "internal_policy"
   | "evidence_verification"
   | "case_search"
+  | "social_context_review"
   | "english_translator_risk"
   | "vietnamese_translator_risk"
   | "myanmar_translator_risk"

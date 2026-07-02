@@ -1,0 +1,264 @@
+[
+  {
+    "id": "mmr-symbol-three-finger-salute",
+    "countryId": "myanmar",
+    "labelKo": "세 손가락 경례",
+    "labelEn": "Three-finger salute",
+    "labelLocal": "",
+    "aliases": [
+      "three-finger salute",
+      "세 손가락",
+      "3 finger salute"
+    ],
+    "symbolType": "pro_democracy_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup",
+      "mmr-8888-uprising"
+    ],
+    "unsafeContexts": [
+      "promo pose",
+      "card design",
+      "discount"
+    ],
+    "safeContexts": [
+      "정치 기사",
+      "인권 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters",
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "mmr-symbol-red-ribbon",
+    "countryId": "myanmar",
+    "labelKo": "빨간 리본",
+    "labelEn": "Red ribbon",
+    "labelLocal": "",
+    "aliases": [
+      "red ribbon",
+      "빨간 리본"
+    ],
+    "symbolType": "cdm_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeContexts": [
+      "cashback ribbon"
+    ],
+    "safeContexts": [
+      "인권 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-symbol-pot-banging",
+    "countryId": "myanmar",
+    "labelKo": "냄비 두드리기",
+    "labelEn": "Pot-banging protest",
+    "labelLocal": "",
+    "aliases": [
+      "pot banging",
+      "pots and pans",
+      "냄비"
+    ],
+    "symbolType": "protest_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeContexts": [
+      "promo noise",
+      "discount"
+    ],
+    "safeContexts": [
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-symbol-burning-village",
+    "countryId": "myanmar",
+    "labelKo": "불탄 마을",
+    "labelEn": "Burning village",
+    "labelLocal": "",
+    "aliases": [
+      "burning village",
+      "fire",
+      "불탄 마을"
+    ],
+    "symbolType": "conflict_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeContexts": [
+      "cashback fire",
+      "loan fire"
+    ],
+    "safeContexts": [
+      "인권 리포트"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-symbol-refugee-camp",
+    "countryId": "myanmar",
+    "labelKo": "난민 캠프",
+    "labelEn": "Refugee camp",
+    "labelLocal": "",
+    "aliases": [
+      "refugee camp",
+      "난민 캠프"
+    ],
+    "symbolType": "humanitarian_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeContexts": [
+      "promo",
+      "joke"
+    ],
+    "safeContexts": [
+      "지원 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-symbol-peacock",
+    "countryId": "myanmar",
+    "labelKo": "공작 상징",
+    "labelEn": "Fighting peacock",
+    "labelLocal": "",
+    "aliases": [
+      "peacock",
+      "공작"
+    ],
+    "symbolType": "democracy_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-8888-uprising"
+    ],
+    "unsafeContexts": [
+      "cashback mascot"
+    ],
+    "safeContexts": [
+      "문화/정치 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-water-splash",
+    "countryId": "myanmar",
+    "labelKo": "물 뿌림",
+    "labelEn": "Water splash",
+    "labelLocal": "",
+    "aliases": [
+      "water splash",
+      "물뿌리기"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "mmr-thingyan"
+    ],
+    "unsafeContexts": [
+      "disaster drowning metaphor"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-pagoda",
+    "countryId": "myanmar",
+    "labelKo": "파고다",
+    "labelEn": "Pagoda",
+    "labelLocal": "ဘုရား",
+    "aliases": [
+      "pagoda",
+      "파고다",
+      "Shwedagon"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "discount"
+    ],
+    "safeContexts": [
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-shwedagon",
+    "countryId": "myanmar",
+    "labelKo": "쉐다곤 파고다",
+    "labelEn": "Shwedagon Pagoda",
+    "labelLocal": "ရွှေတိဂုံ",
+    "aliases": [
+      "Shwedagon",
+      "쉐다곤"
+    ],
+    "symbolType": "religious_national_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "card design gimmick"
+    ],
+    "safeContexts": [
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-symbol-monk",
+    "countryId": "myanmar",
+    "labelKo": "승려 이미지",
+    "labelEn": "Monk image",
+    "labelLocal": "ဘုန်းကြီး",
+    "aliases": [
+      "monk image",
+      "승려"
+    ],
+    "symbolType": "religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "promo mascot"
+    ],
+    "safeContexts": [
+      "종교 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "khm-khmer-rouge-genocide",
+    "countryId": "cambodia",
+    "nameKo": "크메르루주 학살·캄보디아 제노사이드",
+    "nameEn": "Khmer Rouge genocide",
+    "nameLocal": "ខ្មែរក្រហម",
+    "aliases": [
+      "크메르루주 학살·캄보디아 제노사이드",
+      "Khmer Rouge genocide",
+      "ខ្មែរក្រហម",
+      "Khmer Rouge",
+      "Killing Fields"
+    ],
+    "dates": [
+      "04-17",
+      "05-20",
+      "01-07"
+    ],
+    "dateWindowDays": 7,
+    "eventType": [
+      "genocide",
+      "national_trauma",
+      "memorial"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Khmer Rouge",
+      "Killing Fields",
+      "Tuol Sleng",
+      "S-21",
+      "Pol Pot",
+      "Year Zero",
+      "Day of Remembrance"
+    ],
+    "stakeholderGroups": [
+      "survivors",
+      "victims_families",
+      "Cambodian_public"
+    ],
+    "associatedTermIds": [
+      "khm-term-killing-fields",
+      "khm-term-tuol-sleng",
+      "khm-term-year-zero",
+      "khm-term-pol-pot"
+    ],
+    "associatedSymbolIds": [
+      "khm-symbol-skull-memorial",
+      "khm-symbol-choeung-ek-stupa"
+    ],
+    "reviewPolicy": "제노사이드·킬링필드 표현을 금융 혜택·세일·수익률 은유로 사용하는 경우 high/hold",
+    "sourceRefs": [
+      "cambodia_genocide",
+      "cambodia_memorial_sites_reuters"
+    ]
+  },
+  {
+    "id": "khm-pchum-ben",
+    "countryId": "cambodia",
+    "nameKo": "프춤번·조상 추모 기간",
+    "nameEn": "Pchum Ben / Ancestors' Day",
+    "nameLocal": "បុណ្យភ្ជុំបិណ្ឌ",
+    "aliases": [
+      "프춤번·조상 추모 기간",
+      "Pchum Ben / Ancestors' Day",
+      "បុណ្យភ្ជុំបិណ្ឌ",
+      "ancestor day",
+      "prayers"
+    ],
+    "dates": [
+      "khmer-lunar-10th-month"
+    ],
+    "dateWindowDays": 15,
+    "eventType": [
+      "ancestor_memorial",
+      "buddhist_holiday"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "ancestor day",
+      "prayers",
+      "offerings",
+      "Buddhist Lent"
+    ],
+    "stakeholderGroups": [
+      "families",
+      "monks",
+      "Cambodian_public"
+    ],
+    "associatedTermIds": [
+      "khm-term-ancestor",
+      "khm-term-ghost",
+      "khm-term-offering"
+    ],
+    "associatedSymbolIds": [
+      "khm-symbol-pagoda",
+      "khm-symbol-monk"
+    ],
+    "reviewPolicy": "조상·죽음·영혼 관련 표현을 금융 프로모션으로 희화화하면 hold",
+    "sourceRefs": [
+      "cambodia_pchum_ben"
+    ]
+  },
+  {
+    "id": "khm-national-symbols",
+    "countryId": "cambodia",
+    "nameKo": "캄보디아 왕실·불교·앙코르와트 상징",
+    "nameEn": "Cambodian national symbols",
+    "nameLocal": "ជាតិ សាសនា ព្រះមហាក្សត្រ",
+    "aliases": [
+      "캄보디아 왕실·불교·앙코르와트 상징",
+      "Cambodian national symbols",
+      "ជាតិ សាសនា ព្រះមហាក្សត្រ",
+      "Nation Religion King",
+      "Angkor Wat"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "national_symbol",
+      "monarchy",
+      "religion"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "Nation Religion King",
+      "Angkor Wat",
+      "Buddhism",
+      "Royal family",
+      "flag"
+    ],
+    "stakeholderGroups": [
+      "Cambodian_public",
+      "Buddhist_community"
+    ],
+    "associatedTermIds": [
+      "khm-term-king",
+      "khm-term-buddhism"
+    ],
+    "associatedSymbolIds": [
+      "khm-symbol-angkor-wat",
+      "khm-symbol-flag"
+    ],
+    "reviewPolicy": "왕실·불교·앙코르와트·국기 상징을 할인·대출 밈으로 쓰는 경우 hold",
+    "sourceRefs": [
+      "cambodia_national_symbols",
+      "cambodia_national_symbols"
+    ]
+  }
+]

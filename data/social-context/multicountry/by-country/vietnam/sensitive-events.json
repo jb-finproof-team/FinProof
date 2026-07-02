@@ -1,0 +1,226 @@
+[
+  {
+    "id": "vnm-reunification-day",
+    "countryId": "vietnam",
+    "nameKo": "베트남 통일·해방 기념일",
+    "nameEn": "Reunification Day / Liberation Day",
+    "nameLocal": "Ngày Giải phóng miền Nam, thống nhất đất nước",
+    "aliases": [
+      "베트남 통일·해방 기념일",
+      "Reunification Day / Liberation Day",
+      "Ngày Giải phóng miền Nam, thống nhất đất nước",
+      "Fall of Saigon",
+      "Reunification"
+    ],
+    "dates": [
+      "04-30"
+    ],
+    "dateWindowDays": 3,
+    "eventType": [
+      "national_day",
+      "war_memory",
+      "reunification"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "Fall of Saigon",
+      "Reunification",
+      "Victory Day",
+      "Liberation Day"
+    ],
+    "stakeholderGroups": [
+      "Vietnamese_public",
+      "overseas_vietnamese"
+    ],
+    "associatedTermIds": [
+      "vnm-term-april30",
+      "vnm-term-saigon-fall",
+      "vnm-term-black-april"
+    ],
+    "associatedSymbolIds": [
+      "vnm-symbol-tank390",
+      "vnm-symbol-flag"
+    ],
+    "reviewPolicy": "4월30일은 베트남 내에서는 국가 기념일이지만 해외 베트남 디아스포라에는 상반된 기억이 있어 정치적 문맥 주의",
+    "sourceRefs": [
+      "vietnam_reunification_day",
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-national-day",
+    "countryId": "vietnam",
+    "nameKo": "베트남 국경일",
+    "nameEn": "Vietnam National Day",
+    "nameLocal": "Quốc khánh",
+    "aliases": [
+      "베트남 국경일",
+      "Vietnam National Day",
+      "Quốc khánh",
+      "Ho Chi Minh",
+      "Ba Dinh Square"
+    ],
+    "dates": [
+      "09-02"
+    ],
+    "dateWindowDays": 2,
+    "eventType": [
+      "national_day",
+      "independence"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "Ho Chi Minh",
+      "Ba Dinh Square",
+      "Declaration of Independence"
+    ],
+    "stakeholderGroups": [
+      "Vietnamese_public"
+    ],
+    "associatedTermIds": [
+      "vnm-term-ho-chi-minh",
+      "vnm-term-national-day"
+    ],
+    "associatedSymbolIds": [
+      "vnm-symbol-star-flag",
+      "vnm-symbol-ba-dinh"
+    ],
+    "reviewPolicy": "국기·호치민·국경일 상징은 존중 맥락만 허용; 금융 프로모션 밈화는 hold",
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-agent-orange-war",
+    "countryId": "vietnam",
+    "nameKo": "베트남전·고엽제 피해",
+    "nameEn": "Vietnam War / Agent Orange legacy",
+    "nameLocal": "Chất độc da cam",
+    "aliases": [
+      "베트남전·고엽제 피해",
+      "Vietnam War / Agent Orange legacy",
+      "Chất độc da cam",
+      "Agent Orange",
+      "napalm"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "war_legacy",
+      "chemical_harm",
+      "victim_memory"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Agent Orange",
+      "napalm",
+      "war victims",
+      "birth defects",
+      "disability"
+    ],
+    "stakeholderGroups": [
+      "war_victims",
+      "families",
+      "disabled_people"
+    ],
+    "associatedTermIds": [
+      "vnm-term-agent-orange",
+      "vnm-term-napalm",
+      "vnm-term-war"
+    ],
+    "associatedSymbolIds": [
+      "vnm-symbol-orange-ribbon",
+      "vnm-symbol-war-helicopter"
+    ],
+    "reviewPolicy": "고엽제·전쟁 피해 표현을 금융 수익·혜택 은유로 사용하면 high/hold",
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-tet",
+    "countryId": "vietnam",
+    "nameKo": "베트남 설·뗏",
+    "nameEn": "Tết Lunar New Year",
+    "nameLocal": "Tết Nguyên Đán",
+    "aliases": [
+      "베트남 설·뗏",
+      "Tết Lunar New Year",
+      "Tết Nguyên Đán",
+      "family reunion",
+      "ancestors"
+    ],
+    "dates": [
+      "lunar-new-year"
+    ],
+    "dateWindowDays": 7,
+    "eventType": [
+      "family_holiday",
+      "national_holiday"
+    ],
+    "sensitivityLevel": "info",
+    "contexts": [
+      "family reunion",
+      "ancestors",
+      "lucky money"
+    ],
+    "stakeholderGroups": [
+      "families",
+      "elders"
+    ],
+    "associatedTermIds": [
+      "vnm-term-tet",
+      "vnm-term-lucky-money"
+    ],
+    "associatedSymbolIds": [
+      "vnm-symbol-apricot-blossom",
+      "vnm-symbol-red-envelope"
+    ],
+    "reviewPolicy": "뗏 프로모션은 가능하나 조상·가난·도박·미신 조롱 및 과잉 상업화 주의",
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-hung-kings",
+    "countryId": "vietnam",
+    "nameKo": "흥왕 기일",
+    "nameEn": "Hung Kings Commemoration",
+    "nameLocal": "Giỗ tổ Hùng Vương",
+    "aliases": [
+      "흥왕 기일",
+      "Hung Kings Commemoration",
+      "Giỗ tổ Hùng Vương",
+      "Hung Kings",
+      "founding ancestors"
+    ],
+    "dates": [
+      "lunar-03-10"
+    ],
+    "dateWindowDays": 2,
+    "eventType": [
+      "ancestral_origin",
+      "national_heritage"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "Hung Kings",
+      "founding ancestors",
+      "ancestor worship"
+    ],
+    "stakeholderGroups": [
+      "Vietnamese_public"
+    ],
+    "associatedTermIds": [
+      "vnm-term-hung-kings",
+      "vnm-term-ancestor"
+    ],
+    "associatedSymbolIds": [
+      "vnm-symbol-temple"
+    ],
+    "reviewPolicy": "민족 시조·조상 숭배 맥락을 금융 상품 밈으로 쓰면 caution/hold",
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  }
+]

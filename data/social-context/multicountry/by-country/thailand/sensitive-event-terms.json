@@ -1,0 +1,323 @@
+[
+  {
+    "id": "tha-term-king",
+    "countryId": "thailand",
+    "labelKo": "국왕·왕실",
+    "labelEn": "King / Royal family",
+    "labelLocal": "พระมหากษัตริย์",
+    "aliases": [
+      "King",
+      "Royal",
+      "국왕",
+      "왕실",
+      "พระมหากษัตริย์"
+    ],
+    "termType": "monarchy",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112",
+      "tha-royal-days"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "loan king",
+      "royal cashback",
+      "joke",
+      "cartoon"
+    ],
+    "safeContexts": [
+      "공식 존중",
+      "공휴일 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-term-article112",
+    "countryId": "thailand",
+    "labelKo": "왕실모독법 112조",
+    "labelEn": "Article 112 / lèse-majesté",
+    "labelLocal": "มาตรา 112",
+    "aliases": [
+      "Article 112",
+      "มาตรา 112",
+      "lese majeste",
+      "왕실모독"
+    ],
+    "termType": "legal_political_sensitivity",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "promo code 112",
+      "joke"
+    ],
+    "safeContexts": [
+      "법률 설명",
+      "뉴스"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-term-royal",
+    "countryId": "thailand",
+    "labelKo": "로열·왕실 표현",
+    "labelEn": "Royal",
+    "labelLocal": "ราช",
+    "aliases": [
+      "Royal",
+      "ราช",
+      "로열",
+      "왕실"
+    ],
+    "termType": "monarchy_reference",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-monarchy-article112"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "discount name",
+      "mascot"
+    ],
+    "safeContexts": [
+      "공식/고급 브랜드명 검토 필요"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-buddha",
+    "countryId": "thailand",
+    "labelKo": "부처·불상",
+    "labelEn": "Buddha",
+    "labelLocal": "พระพุทธเจ้า",
+    "aliases": [
+      "Buddha",
+      "불상",
+      "부처",
+      "พระพุทธเจ้า"
+    ],
+    "termType": "religious_sacred",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "cashback mascot",
+      "joke",
+      "loan"
+    ],
+    "safeContexts": [
+      "문화/종교 설명"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-monk",
+    "countryId": "thailand",
+    "labelKo": "승려",
+    "labelEn": "Monk",
+    "labelLocal": "พระสงฆ์",
+    "aliases": [
+      "monk",
+      "승려",
+      "พระสงฆ์"
+    ],
+    "termType": "religious_person",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "card mascot",
+      "discount"
+    ],
+    "safeContexts": [
+      "종교/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-temple",
+    "countryId": "thailand",
+    "labelKo": "사원",
+    "labelEn": "Temple / Wat",
+    "labelLocal": "วัด",
+    "aliases": [
+      "wat",
+      "temple",
+      "사원",
+      "วัด"
+    ],
+    "termType": "religious_place",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "promo set",
+      "coupon"
+    ],
+    "safeContexts": [
+      "관광/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-songkran",
+    "countryId": "thailand",
+    "labelKo": "송끄란",
+    "labelEn": "Songkran",
+    "labelLocal": "สงกรานต์",
+    "aliases": [
+      "Songkran",
+      "송끄란",
+      "สงกรานต์"
+    ],
+    "termType": "new_year_holiday",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "drunk joke",
+      "accident metaphor"
+    ],
+    "safeContexts": [
+      "명절 송금/카드 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-water",
+    "countryId": "thailand",
+    "labelKo": "물·물총",
+    "labelEn": "Water",
+    "labelLocal": "น้ำ",
+    "aliases": [
+      "water",
+      "water gun",
+      "물총",
+      "น้ำ"
+    ],
+    "termType": "holiday_water_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "drowning",
+      "disaster"
+    ],
+    "safeContexts": [
+      "송끄란 프로모션"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-term-coup",
+    "countryId": "thailand",
+    "labelKo": "쿠데타",
+    "labelEn": "Coup",
+    "labelLocal": "รัฐประหาร",
+    "aliases": [
+      "coup",
+      "รัฐประหาร",
+      "쿠데타"
+    ],
+    "termType": "military_coup",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "loan coup",
+      "rate coup"
+    ],
+    "safeContexts": [
+      "뉴스/역사 설명"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "tha-term-three-finger",
+    "countryId": "thailand",
+    "labelKo": "세 손가락 경례",
+    "labelEn": "Three-finger salute",
+    "labelLocal": "ชูสามนิ้ว",
+    "aliases": [
+      "three-finger salute",
+      "ชูสามนิ้ว",
+      "세 손가락"
+    ],
+    "termType": "protest_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "card pose",
+      "promo"
+    ],
+    "safeContexts": [
+      "정치 보도"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "tha-term-red-yellow",
+    "countryId": "thailand",
+    "labelKo": "레드셔츠·옐로셔츠",
+    "labelEn": "Red/Yellow political colors",
+    "labelLocal": "เสื้อแดง/เสื้อเหลือง",
+    "aliases": [
+      "red shirts",
+      "yellow shirts",
+      "레드셔츠",
+      "옐로셔츠"
+    ],
+    "termType": "political_color_identity",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "campaign targeting"
+    ],
+    "safeContexts": [
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  }
+]

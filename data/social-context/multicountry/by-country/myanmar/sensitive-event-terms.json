@@ -1,0 +1,379 @@
+[
+  {
+    "id": "mmr-term-coup",
+    "countryId": "myanmar",
+    "labelKo": "쿠데타",
+    "labelEn": "Coup",
+    "labelLocal": "အာဏာသိမ်း",
+    "aliases": [
+      "coup",
+      "아웅산",
+      "အာဏာသိမ်း",
+      "군부 쿠데타"
+    ],
+    "termType": "military_coup",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "loan coup",
+      "rate seizure",
+      "discount revolution"
+    ],
+    "safeContexts": [
+      "보도",
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-term-tatmadaw",
+    "countryId": "myanmar",
+    "labelKo": "미얀마 군부·탓마도",
+    "labelEn": "Tatmadaw",
+    "labelLocal": "တပ်မတော်",
+    "aliases": [
+      "Tatmadaw",
+      "တပ်မတော်",
+      "군부"
+    ],
+    "termType": "military_institution",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "promo",
+      "mascot",
+      "loan"
+    ],
+    "safeContexts": [
+      "보도",
+      "정치 분석"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-term-cdm",
+    "countryId": "myanmar",
+    "labelKo": "시민불복종운동",
+    "labelEn": "Civil Disobedience Movement",
+    "labelLocal": "CDM",
+    "aliases": [
+      "CDM",
+      "civil disobedience",
+      "시민불복종"
+    ],
+    "termType": "protest_symbol",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "cashback",
+      "discount"
+    ],
+    "safeContexts": [
+      "정치 설명",
+      "뉴스"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-term-aung-san-suu-kyi",
+    "countryId": "myanmar",
+    "labelKo": "아웅산 수치",
+    "labelEn": "Aung San Suu Kyi",
+    "labelLocal": "ဒေါ်အောင်ဆန်းစုကြည်",
+    "aliases": [
+      "Aung San Suu Kyi",
+      "Suu Kyi",
+      "아웅산 수치"
+    ],
+    "termType": "political_figure",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-2021-coup"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "joke",
+      "loan_name"
+    ],
+    "safeContexts": [
+      "뉴스",
+      "정치 분석"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-term-rohingya",
+    "countryId": "myanmar",
+    "labelKo": "로힝야",
+    "labelEn": "Rohingya",
+    "labelLocal": "ရိုဟင်ဂျာ",
+    "aliases": [
+      "Rohingya",
+      "로힝야",
+      "ရိုဟင်ဂျာ"
+    ],
+    "termType": "ethnic_group_sensitive",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "targeted_promo",
+      "joke",
+      "stereotype"
+    ],
+    "safeContexts": [
+      "인권 안내",
+      "지원 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-term-rakhine",
+    "countryId": "myanmar",
+    "labelKo": "라카인",
+    "labelEn": "Rakhine",
+    "labelLocal": "ရခိုင်",
+    "aliases": [
+      "Rakhine",
+      "라카인",
+      "ရခိုင်"
+    ],
+    "termType": "conflict_region",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "discount joke",
+      "ethnic stereotype"
+    ],
+    "safeContexts": [
+      "지역 정보",
+      "인권 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-term-refugee",
+    "countryId": "myanmar",
+    "labelKo": "난민",
+    "labelEn": "Refugee",
+    "labelLocal": "ဒုက္ခသည်",
+    "aliases": [
+      "refugee",
+      "난민",
+      "ဒုက္ခသည်"
+    ],
+    "termType": "displacement_victim",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-rohingya-rakhine"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "loan refugee",
+      "fee escape"
+    ],
+    "safeContexts": [
+      "지원 안내",
+      "인권 캠페인"
+    ],
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-term-8888",
+    "countryId": "myanmar",
+    "labelKo": "8888",
+    "labelEn": "8888 Uprising",
+    "labelLocal": "၈၈၈၈",
+    "aliases": [
+      "8888",
+      "8-8-88",
+      "၈၈၈၈"
+    ],
+    "termType": "democracy_movement_date",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-8888-uprising"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "promo code",
+      "coupon",
+      "cashback"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-term-crackdown",
+    "countryId": "myanmar",
+    "labelKo": "진압",
+    "labelEn": "Crackdown",
+    "labelLocal": "ဖြိုခွင်း",
+    "aliases": [
+      "crackdown",
+      "진압",
+      "ဖြိုခွင်း"
+    ],
+    "termType": "state_violence",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "mmr-8888-uprising",
+      "mmr-2021-coup"
+    ],
+    "unsafeWhenUsedAsMetaphor": true,
+    "unsafeContexts": [
+      "fee crackdown",
+      "rate crackdown"
+    ],
+    "safeContexts": [
+      "보도",
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_reuters"
+    ]
+  },
+  {
+    "id": "mmr-term-thingyan",
+    "countryId": "myanmar",
+    "labelKo": "띤잔",
+    "labelEn": "Thingyan",
+    "labelLocal": "သင်္ကြန်",
+    "aliases": [
+      "Thingyan",
+      "띤잔",
+      "သင်္ကြန်"
+    ],
+    "termType": "new_year_holiday",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "mmr-thingyan"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "political joke"
+    ],
+    "safeContexts": [
+      "명절 송금",
+      "신년 인사"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-term-water",
+    "countryId": "myanmar",
+    "labelKo": "물축제",
+    "labelEn": "Water festival",
+    "labelLocal": "ရေသဘင်",
+    "aliases": [
+      "water festival",
+      "물축제",
+      "ရေပက်"
+    ],
+    "termType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "mmr-thingyan"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "drowning joke"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-term-buddhism",
+    "countryId": "myanmar",
+    "labelKo": "불교",
+    "labelEn": "Buddhism",
+    "labelLocal": "ဗုဒ္ဓဘာသာ",
+    "aliases": [
+      "Buddhism",
+      "불교",
+      "ဗုဒ္ဓဘာသာ"
+    ],
+    "termType": "religion",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "loan mascot",
+      "discount"
+    ],
+    "safeContexts": [
+      "문화 안내"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-term-monk",
+    "countryId": "myanmar",
+    "labelKo": "승려",
+    "labelEn": "Monk",
+    "labelLocal": "ဘုန်းကြီး",
+    "aliases": [
+      "monk",
+      "승려",
+      "ဘုန်းကြီး"
+    ],
+    "termType": "religious_person",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "mmr-buddhism-sacred"
+    ],
+    "unsafeWhenUsedAsMetaphor": false,
+    "unsafeContexts": [
+      "cashback character",
+      "joke"
+    ],
+    "safeContexts": [
+      "종교 행사"
+    ],
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  }
+]

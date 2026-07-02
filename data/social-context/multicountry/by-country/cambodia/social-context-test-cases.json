@@ -1,0 +1,82 @@
+[
+  {
+    "id": "khm-001",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-04-17",
+    "text": "Killing Fields급 수익률 이벤트",
+    "productType": "investment",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "크메르루주 관련 민감 날짜와 제노사이드 표현, 수익률 프로모션 결합"
+  },
+  {
+    "id": "khm-002",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-09-15",
+    "text": "Pchum Ben 가족 송금 수수료 우대",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "프춤번 가족 송금 안내로 비교적 안전"
+  },
+  {
+    "id": "khm-003",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-05-20",
+    "text": "S-21 제로 수수료 특가",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "추모일+S-21+금융 혜택"
+  },
+  {
+    "id": "khm-004",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-01-07",
+    "text": "Angkor Wat 카드 디자인",
+    "productType": "card",
+    "channelType": [
+      "card_design"
+    ],
+    "expectedRiskLevel": "caution",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "national_symbol_distortion_finance_promo"
+    ],
+    "reason": "국가 유산 상징 사용 방식 검토 필요"
+  },
+  {
+    "id": "khm-005",
+    "countryId": "cambodia",
+    "plannedPublishDate": "2026-05-20",
+    "text": "Year Zero 수수료 0원 캠페인",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "Year Zero를 수수료 제로 마케팅으로 사용"
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "from": "chn-prc-national-day",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-01",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedTerm",
+    "to": "chn-term-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedTerm",
+    "to": "chn-term-golden-week",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-prc-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-prc-national-day",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-10",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "hasSensitiveDate",
+    "to": "date-10-25",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-taiwan",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-chinese-taipei",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedTerm",
+    "to": "chn-term-double-ten",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-taiwan-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-map",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-taiwan-sovereignty",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-taiwanese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-hong-kong",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-tibet",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedTerm",
+    "to": "chn-term-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-hk-protest",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-uyghur",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tibetan-flag",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-affected-groups",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-hk-tibet-xinjiang",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "hasSensitiveDate",
+    "to": "date-06-04",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-june-fourth",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedTerm",
+    "to": "chn-term-tank-man",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tiananmen",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-tank-man",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-tiananmen-june4",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "hasSensitiveDate",
+    "to": "date-lunar-new-year",
+    "weight": 1.0,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedTerm",
+    "to": "chn-term-spring-festival",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedTerm",
+    "to": "chn-term-red-envelope",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-red-envelope",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "associatedSymbol",
+    "to": "chn-symbol-dragon",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-chinese-public",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-lunar-new-year",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-national-day",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-golden-week",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-taiwan",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-chinese-taipei",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-double-ten",
+    "relation": "termOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-hong-kong",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tibet",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-xinjiang",
+    "relation": "termOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tiananmen",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tiananmen",
+    "relation": "termOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-june-fourth",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-tank-man",
+    "relation": "termOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-spring-festival",
+    "relation": "termOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-term-red-envelope",
+    "relation": "termOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-prc-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tiananmen",
+    "relation": "symbolOfEvent",
+    "to": "chn-prc-national-day",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tiananmen",
+    "relation": "symbolOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-taiwan-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-map",
+    "relation": "symbolOfEvent",
+    "to": "chn-taiwan-sovereignty",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-map",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-hk-protest",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-uyghur",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tibetan-flag",
+    "relation": "symbolOfEvent",
+    "to": "chn-hk-tibet-xinjiang",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-tank-man",
+    "relation": "symbolOfEvent",
+    "to": "chn-tiananmen-june4",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-red-envelope",
+    "relation": "symbolOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "chn-symbol-dragon",
+    "relation": "symbolOfEvent",
+    "to": "chn-lunar-new-year",
+    "weight": 0.9,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "china",
+    "weight": 0.6,
+    "countryId": "china",
+    "note": ""
+  }
+]

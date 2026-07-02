@@ -1,0 +1,177 @@
+[
+  {
+    "id": "fin-interest-rate",
+    "labelKo": "금리",
+    "labelEn": "interest rate",
+    "aliases": [
+      "금리",
+      "이자율",
+      "우대금리",
+      "최저금리",
+      "최고금리",
+      "rate",
+      "interest rate",
+      "lãi suất",
+      "អត្រាការប្រាក់",
+      "အတိုးနှုန်း",
+      "利率",
+      "ดอกเบี้ย"
+    ],
+    "category": "financial_benefit",
+    "productTypes": [
+      "loan",
+      "deposit",
+      "savings"
+    ]
+  },
+  {
+    "id": "fin-loan",
+    "labelKo": "대출",
+    "labelEn": "loan",
+    "aliases": [
+      "대출",
+      "신용대출",
+      "loan",
+      "vay",
+      "khoản vay",
+      "ប្រាក់កម្ចី",
+      "ချေးငွေ",
+      "贷款",
+      "สินเชื่อ"
+    ],
+    "category": "financial_product",
+    "productTypes": [
+      "loan"
+    ]
+  },
+  {
+    "id": "fin-deposit",
+    "labelKo": "예금/적금",
+    "labelEn": "deposit/savings",
+    "aliases": [
+      "예금",
+      "적금",
+      "savings",
+      "deposit",
+      "tiết kiệm",
+      "ប្រាក់បញ្ញើ",
+      "အပ်ငွေ",
+      "存款",
+      "เงินฝาก"
+    ],
+    "category": "financial_product",
+    "productTypes": [
+      "deposit",
+      "savings"
+    ]
+  },
+  {
+    "id": "fin-return",
+    "labelKo": "수익률",
+    "labelEn": "return/yield",
+    "aliases": [
+      "수익률",
+      "수익",
+      "yield",
+      "return",
+      "lợi nhuận",
+      "អត្រាចំណេញ",
+      "အမြတ်နှုန်း",
+      "收益率",
+      "ผลตอบแทน"
+    ],
+    "category": "financial_performance",
+    "productTypes": [
+      "investment",
+      "fund"
+    ]
+  },
+  {
+    "id": "fin-fee",
+    "labelKo": "수수료",
+    "labelEn": "fee",
+    "aliases": [
+      "수수료",
+      "fee",
+      "commission",
+      "phí",
+      "សេវា",
+      "အခကြေးငွေ",
+      "手续费",
+      "ค่าธรรมเนียม"
+    ],
+    "category": "financial_cost",
+    "productTypes": [
+      "card",
+      "loan",
+      "deposit",
+      "remittance"
+    ]
+  },
+  {
+    "id": "fin-cashback",
+    "labelKo": "캐시백",
+    "labelEn": "cashback",
+    "aliases": [
+      "캐시백",
+      "cashback",
+      "hoàn tiền",
+      "បង្វិលសាច់ប្រាក់",
+      "ငွေပြန်",
+      "返现",
+      "เงินคืน"
+    ],
+    "category": "financial_benefit",
+    "productTypes": [
+      "card",
+      "payment"
+    ]
+  },
+  {
+    "id": "fin-remittance",
+    "labelKo": "해외송금",
+    "labelEn": "remittance",
+    "aliases": [
+      "해외송금",
+      "송금",
+      "remittance",
+      "transfer",
+      "chuyển tiền",
+      "ផ្ទេរប្រាក់",
+      "ငွေလွှဲ",
+      "汇款",
+      "โอนเงิน"
+    ],
+    "category": "financial_service",
+    "productTypes": [
+      "remittance"
+    ]
+  },
+  {
+    "id": "promo-discount",
+    "labelKo": "할인/특가",
+    "labelEn": "discount/promotion",
+    "aliases": [
+      "할인",
+      "특가",
+      "혜택",
+      "이벤트",
+      "쿠폰",
+      "오늘만",
+      "한정",
+      "discount",
+      "promo",
+      "deal",
+      "ưu đãi",
+      "khuyến mãi",
+      "បញ្ចុះតម្លៃ",
+      "โปรโมชั่น",
+      "ส่วนลด",
+      "优惠"
+    ],
+    "category": "commercial_promotion",
+    "productTypes": [
+      "all"
+    ]
+  }
+]

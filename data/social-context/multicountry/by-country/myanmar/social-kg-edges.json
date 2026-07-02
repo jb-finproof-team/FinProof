@@ -1,0 +1,586 @@
+[
+  {
+    "from": "mmr-2021-coup",
+    "relation": "hasSensitiveDate",
+    "to": "date-02-01",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-tatmadaw",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-cdm",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedTerm",
+    "to": "mmr-term-aung-san-suu-kyi",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-red-ribbon",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-pot-banging",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-myanmar-public",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-protesters",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-2021-coup",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-diaspora",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-rohingya",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedTerm",
+    "to": "mmr-term-refugee",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-burning-village",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-refugee-camp",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-rohingya",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-rakhine-communities",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-rohingya-rakhine",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-refugees",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "hasSensitiveDate",
+    "to": "date-08-08",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedTerm",
+    "to": "mmr-term-8888",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedTerm",
+    "to": "mmr-term-crackdown",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-peacock",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-three-finger-salute",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-survivors",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-students",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-8888-uprising",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-democracy-movement",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "hasSensitiveDate",
+    "to": "date-myanmar-new-year",
+    "weight": 1.0,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedTerm",
+    "to": "mmr-term-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedTerm",
+    "to": "mmr-term-water",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-water-splash",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-pagoda",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-families",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-thingyan",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "mmr-term-buddhism",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedTerm",
+    "to": "mmr-term-monk",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-shwedagon",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "associatedSymbol",
+    "to": "mmr-symbol-monk",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-buddhist-community",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-buddhism-sacred",
+    "relation": "affectsStakeholder",
+    "to": "stakeholder-monks",
+    "weight": 0.8,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-coup",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-tatmadaw",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-cdm",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-aung-san-suu-kyi",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-rohingya",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-rakhine",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-refugee",
+    "relation": "termOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-8888",
+    "relation": "termOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-crackdown",
+    "relation": "termOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-crackdown",
+    "relation": "termOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-thingyan",
+    "relation": "termOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-water",
+    "relation": "termOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-buddhism",
+    "relation": "termOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-term-monk",
+    "relation": "termOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-three-finger-salute",
+    "relation": "symbolOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-red-ribbon",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-pot-banging",
+    "relation": "symbolOfEvent",
+    "to": "mmr-2021-coup",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-burning-village",
+    "relation": "symbolOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-refugee-camp",
+    "relation": "symbolOfEvent",
+    "to": "mmr-rohingya-rakhine",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-peacock",
+    "relation": "symbolOfEvent",
+    "to": "mmr-8888-uprising",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-water-splash",
+    "relation": "symbolOfEvent",
+    "to": "mmr-thingyan",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-pagoda",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-shwedagon",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "mmr-symbol-monk",
+    "relation": "symbolOfEvent",
+    "to": "mmr-buddhism-sacred",
+    "weight": 0.9,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-interest-rate",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-loan",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-deposit",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-return",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-fee",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-cashback",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "fin-remittance",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  },
+  {
+    "from": "promo-discount",
+    "relation": "isFinancialPromoTermFor",
+    "to": "myanmar",
+    "weight": 0.6,
+    "countryId": "myanmar",
+    "note": ""
+  }
+]

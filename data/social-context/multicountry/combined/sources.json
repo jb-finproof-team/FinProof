@@ -1,0 +1,102 @@
+{
+  "jb_ppcbank": {
+    "title": "PPCBank ownership and JB Financial connection",
+    "url": "https://en.wikipedia.org/wiki/Phnom_Penh_Commercial_Bank",
+    "note": "PPCBank is described as owned by JB Financial Group subsidiaries and OK Financial Group."
+  },
+  "jb_group": {
+    "title": "JB Financial Group global subsidiaries",
+    "url": "https://en.wikipedia.org/wiki/JB_Financial_Group",
+    "note": "Public profile lists PPCBank, JB Securities Vietnam and JB Capital Myanmar."
+  },
+  "cambodia_genocide": {
+    "title": "Cambodian genocide / Khmer Rouge period",
+    "url": "https://en.wikipedia.org/wiki/Cambodian_genocide",
+    "note": "Khmer Rouge period 1975–1979; mass deaths; Tuol Sleng and Killing Fields."
+  },
+  "cambodia_memorial_sites_reuters": {
+    "title": "UNESCO recognition of Cambodian Memorial Sites",
+    "url": "https://www.reuters.com/world/asia-pacific/cambodia-marks-unesco-recognition-khmer-rouge-sites-places-peace-reflection-2025-07-13/",
+    "note": "Tuol Sleng, Choeung Ek and M-13 as places of peace and reflection."
+  },
+  "cambodia_pchum_ben": {
+    "title": "Pchum Ben ancestor festival",
+    "url": "https://en.wikipedia.org/wiki/Pchum_Ben",
+    "note": "15-day Cambodian Buddhist festival where people pay respects to deceased relatives."
+  },
+  "cambodia_national_symbols": {
+    "title": "National symbols of Cambodia",
+    "url": "https://en.wikipedia.org/wiki/National_symbols_of_Cambodia",
+    "note": "Angkor Wat, flag, Buddhism, motto Nation-Religion-King."
+  },
+  "vietnam_reunification_day": {
+    "title": "Vietnam Reunification Day",
+    "url": "https://en.wikipedia.org/wiki/Reunification_Day",
+    "note": "April 30 public holiday marking the end of the Vietnam War and reunification."
+  },
+  "vietnam_national_day": {
+    "title": "Vietnam National Day",
+    "url": "https://en.wikipedia.org/wiki/National_Day_(Vietnam)",
+    "note": "September 2 commemorates Ho Chi Minh's declaration of independence in 1945."
+  },
+  "vietnam_public_holidays": {
+    "title": "Public holidays in Vietnam",
+    "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Vietnam",
+    "note": "Tet, Hung Kings Commemoration, April 30, September 2, etc."
+  },
+  "vietnam_agent_orange": {
+    "title": "Agent Orange legacy",
+    "url": "https://www.verywellhealth.com/agent-orange-effects-7091773",
+    "note": "Agent Orange linked to serious health and environmental harms; still sensitive."
+  },
+  "myanmar_coup_reuters": {
+    "title": "Myanmar coup protests and civil disobedience",
+    "url": "https://www.reuters.com/world/asia-pacific/we-dont-want-this-military-coup-myanmar-teachers-join-protests-2021-02-05/",
+    "note": "Civil disobedience, red ribbons, three-finger salute after 2021 coup."
+  },
+  "myanmar_coup_overview": {
+    "title": "2021 Myanmar coup overview",
+    "url": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat",
+    "note": "Feb 1, 2021 coup and protest symbols such as three-finger salute, CDM, red ribbon."
+  },
+  "myanmar_rohingya": {
+    "title": "Rohingya crisis research",
+    "url": "https://arxiv.org/abs/2106.02945",
+    "note": "Rohingya issue in Rakhine State is internationally recognized as highly sensitive."
+  },
+  "china_tibet_xinjiang_hk_reuters": {
+    "title": "China sensitivity around Tibet, Xinjiang, Hong Kong",
+    "url": "https://www.reuters.com/world/china/china-says-thai-art-show-distorts-its-policies-tibet-xinjiang-hong-kong-2025-08-11/",
+    "note": "China criticized artworks on Tibet, Xinjiang, Hong Kong; illustrates sensitivity."
+  },
+  "china_taiwan_flag_reuters": {
+    "title": "Taiwan / Chinese Taipei flag sensitivity",
+    "url": "https://www.reuters.com/sports/isu-apologises-displaying-taiwan-flag-worlds-2025-03-28/",
+    "note": "ISU apology after showing Taiwan flag instead of Chinese Taipei emblem."
+  },
+  "china_national_day": {
+    "title": "PRC National Day",
+    "url": "https://en.wikipedia.org/wiki/National_Day_of_the_People%27s_Republic_of_China",
+    "note": "October 1 public holiday commemorating proclamation of PRC."
+  },
+  "china_taiwan_restoration_ap": {
+    "title": "China creates Taiwan Restoration commemoration day",
+    "url": "https://apnews.com/article/f80b98e8edbc938ae6d3e2b2f8830de8",
+    "note": "Oct 25 holiday created as part of sovereignty claims over Taiwan."
+  },
+  "thailand_lese_majeste_reuters": {
+    "title": "Thailand lèse-majesté law",
+    "url": "https://www.reuters.com/world/asia-pacific/un-rights-office-calls-thailand-amend-royal-insult-law-2020-12-18/",
+    "note": "Thai royal insult law carries three to 15 years imprisonment; highly sensitive."
+  },
+  "thailand_lese_majeste_guardian": {
+    "title": "Thailand's lese majesty laws explained",
+    "url": "https://www.theguardian.com/world/article/2024/aug/08/thailands-lese-majesty-laws-explained-in-30-seconds",
+    "note": "Monarchy criticism and Article 112 remain socially and legally sensitive."
+  },
+  "three_finger_salute": {
+    "title": "Three-finger salute as pro-democracy symbol",
+    "url": "https://en.wikipedia.org/wiki/Three-finger_salute_(pro-democracy)",
+    "note": "Three-finger salute used in Thailand and Myanmar pro-democracy movements."
+  }
+}

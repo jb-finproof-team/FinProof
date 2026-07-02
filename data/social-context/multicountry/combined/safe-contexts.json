@@ -1,0 +1,72 @@
+[
+  {
+    "id": "safe-cambodia-history-education",
+    "countryId": "cambodia",
+    "text": "Khmer Rouge history education exhibition",
+    "expectedRisk": "info",
+    "reason": "역사교육·추모 목적이며 금융 혜택/할인과 결합하지 않음"
+  },
+  {
+    "id": "safe-cambodia-pchum-ben-remittance",
+    "countryId": "cambodia",
+    "text": "Pchum Ben 가족 송금 수수료 안내",
+    "expectedRisk": "info",
+    "reason": "명절 가족 송금 안내이며 조상·영혼 표현을 희화화하지 않음"
+  },
+  {
+    "id": "safe-vietnam-tet-cashback",
+    "countryId": "vietnam",
+    "text": "Tết remittance fee discount for family support",
+    "expectedRisk": "info",
+    "reason": "뗏 명절 송금 혜택은 정상 금융 프로모션 맥락"
+  },
+  {
+    "id": "safe-vietnam-agent-orange-donation",
+    "countryId": "vietnam",
+    "text": "Agent Orange victim support donation notice",
+    "expectedRisk": "info",
+    "reason": "피해자 지원/기부 맥락이며 상업적 은유가 아님"
+  },
+  {
+    "id": "safe-myanmar-thingyan-transfer",
+    "countryId": "myanmar",
+    "text": "Thingyan new year transfer fee event",
+    "expectedRisk": "info",
+    "reason": "명절 송금 프로모션이며 정치·종교 상징을 희화화하지 않음"
+  },
+  {
+    "id": "safe-myanmar-rohingya-aid",
+    "countryId": "myanmar",
+    "text": "Rohingya humanitarian aid donation account notice",
+    "expectedRisk": "info",
+    "reason": "인권·기부 안내 맥락"
+  },
+  {
+    "id": "safe-china-spring-festival-red-envelope",
+    "countryId": "china",
+    "text": "Spring Festival red envelope cashback",
+    "expectedRisk": "info",
+    "reason": "춘절 홍바오 문화와 금융 혜택의 일반적 결합"
+  },
+  {
+    "id": "safe-china-hk-branch-info",
+    "countryId": "china",
+    "text": "Hong Kong branch remittance guide",
+    "expectedRisk": "info",
+    "reason": "지역명으로서의 홍콩 지점 안내"
+  },
+  {
+    "id": "safe-thailand-songkran-transfer",
+    "countryId": "thailand",
+    "text": "Songkran family remittance guide",
+    "expectedRisk": "info",
+    "reason": "송끄란 가족 송금 안내"
+  },
+  {
+    "id": "safe-thailand-temple-travel-info",
+    "countryId": "thailand",
+    "text": "Thai temple cultural travel guide included in card travel content",
+    "expectedRisk": "caution",
+    "reason": "문화 안내 맥락이지만 불상/승려 이미지 사용 방식 검토 필요"
+  }
+]

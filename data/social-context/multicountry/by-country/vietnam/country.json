@@ -1,0 +1,21 @@
+{
+  "countryId": "vietnam",
+  "nameKo": "베트남",
+  "nameEn": "Vietnam",
+  "nameLocal": "Việt Nam",
+  "priorityForJB": "A",
+  "relationshipType": [
+    "overseas_business",
+    "jb_securities_vietnam",
+    "domestic_foreign_customer",
+    "vietnamese_language_marketing"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "businessRationale": "JB Securities Vietnam 공개 접점과 한국 내 베트남어 고객층·송금·계좌·카드 안내 필요성",
+  "sourceRefs": [
+    "jb_group"
+  ]
+}

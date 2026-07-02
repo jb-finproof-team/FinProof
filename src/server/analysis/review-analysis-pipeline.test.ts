@@ -1640,6 +1640,76 @@ describe("review analysis pipeline", () => {
     );
   });
 
+  it("integrates social context KG findings and evidence before domain subagents run", async () => {
+    const provider = multilingualProviderReturning({
+      english_translator_risk: "[]"
+    });
+    const subAgentOrchestrator: ReviewSubAgentOrchestrator = {
+      run: vi.fn(async ({ priorFindings = [] }) => priorFindings)
+    };
+    const pipeline = createReviewAnalysisPipeline({
+      modelProvider: provider,
+      subAgentOrchestrator,
+      ocrProvider: fixedOcrProvider("Killing Fields급 수익률 이벤트")
+    });
+    const socialReview: ReviewCase = {
+      ...review,
+      id: "rc-social-context-001",
+      title: "캄보디아 투자상품 SNS 이벤트",
+      affiliate: "PPCBank",
+      productType: "investment",
+      channelType: ["SNS"],
+      plannedPublishDate: "2026-04-17",
+      promotionalCopy: "Killing Fields급 수익률 이벤트",
+      productDescription: "수익률 이벤트 안내"
+    };
+
+    const artifacts = await pipeline.run({ review: socialReview });
+
+    expect(artifacts.socialContextMatches).toEqual([
+      expect.objectContaining({
+        countryId: "cambodia",
+        ruleId: "country_sensitive_date_trauma_metaphor_finance_promo",
+        riskLevel: "high",
+        suggestedAction: "hold"
+      })
+    ]);
+    expect(artifacts.evidenceCandidates).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.stringContaining("social-context-rule-cambodia"),
+          sourceType: "internal_policy"
+        })
+      ])
+    );
+    expect(subAgentOrchestrator.run).toHaveBeenCalledWith(
+      expect.objectContaining({
+        evidenceCandidates: expect.arrayContaining([
+          expect.objectContaining({
+            id: expect.stringContaining("social-context-rule-cambodia")
+          })
+        ]),
+        priorFindings: expect.arrayContaining([
+          expect.objectContaining({
+            agent: "social_context_review",
+            riskLevel: "high",
+            suggestedAction: "hold"
+          })
+        ])
+      })
+    );
+    expect(artifacts.findings).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          agentType: "social_context",
+          issueType: "social_context_kg_risk",
+          riskLevel: "high",
+          suggestedAction: "hold"
+        })
+      ])
+    );
+  });
+
   it("routes Vietnamese OCR text through the Vietnamese translator risk agent", async () => {
     const provider = multilingualProviderReturning({
       vietnamese_translator_risk: "[]"

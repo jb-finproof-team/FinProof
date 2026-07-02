@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case-china-taiwan-flag-protocol-error",
+    "countryId": "china",
+    "title": "대만 국기·중국 지도/국가 표기 오류 리스크",
+    "triggerTerms": [
+      "Taiwan flag",
+      "Chinese Taipei",
+      "map"
+    ],
+    "riskPatternIds": [
+      "sovereignty_map_flag_protocol_error"
+    ],
+    "lesson": "국기·지도·국가 목록은 사전 승인된 프로토콜만 사용한다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "china_taiwan_flag_reuters"
+    ]
+  }
+]

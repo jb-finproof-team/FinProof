@@ -1,0 +1,239 @@
+[
+  {
+    "id": "mmr-2021-coup",
+    "countryId": "myanmar",
+    "nameKo": "2021년 미얀마 군부 쿠데타",
+    "nameEn": "2021 Myanmar coup",
+    "nameLocal": "၂၀၂၁ အာဏာသိမ်း",
+    "aliases": [
+      "2021년 미얀마 군부 쿠데타",
+      "2021 Myanmar coup",
+      "၂၀၂၁ အာဏာသိမ်း",
+      "coup",
+      "Tatmadaw"
+    ],
+    "dates": [
+      "02-01"
+    ],
+    "dateWindowDays": 7,
+    "eventType": [
+      "political_crisis",
+      "military_coup",
+      "civil_disobedience"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "coup",
+      "Tatmadaw",
+      "CDM",
+      "red ribbon",
+      "three-finger salute",
+      "Aung San Suu Kyi"
+    ],
+    "stakeholderGroups": [
+      "Myanmar_public",
+      "protesters",
+      "diaspora"
+    ],
+    "associatedTermIds": [
+      "mmr-term-coup",
+      "mmr-term-tatmadaw",
+      "mmr-term-cdm",
+      "mmr-term-aung-san-suu-kyi"
+    ],
+    "associatedSymbolIds": [
+      "mmr-symbol-three-finger-salute",
+      "mmr-symbol-red-ribbon",
+      "mmr-symbol-pot-banging"
+    ],
+    "reviewPolicy": "쿠데타·시위 상징을 금융 혜택·이벤트로 소비하거나 정치 편향으로 해석될 표현은 high/hold",
+    "sourceRefs": [
+      "myanmar_coup_reuters",
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-rohingya-rakhine",
+    "countryId": "myanmar",
+    "nameKo": "로힝야·라카인 인권 위기",
+    "nameEn": "Rohingya / Rakhine crisis",
+    "nameLocal": "ရိုဟင်ဂျာ",
+    "aliases": [
+      "로힝야·라카인 인권 위기",
+      "Rohingya / Rakhine crisis",
+      "ရိုဟင်ဂျာ",
+      "Rohingya",
+      "Rakhine"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "ethnic_conflict",
+      "human_rights",
+      "refugee_crisis"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "Rohingya",
+      "Rakhine",
+      "refugee",
+      "displacement",
+      "ethnic conflict"
+    ],
+    "stakeholderGroups": [
+      "Rohingya",
+      "Rakhine_communities",
+      "refugees"
+    ],
+    "associatedTermIds": [
+      "mmr-term-rohingya",
+      "mmr-term-rakhine",
+      "mmr-term-refugee"
+    ],
+    "associatedSymbolIds": [
+      "mmr-symbol-burning-village",
+      "mmr-symbol-refugee-camp"
+    ],
+    "reviewPolicy": "로힝야·라카인·난민 표현을 금융상품 조롱·고정관념·프로모션으로 사용하면 high/hold",
+    "sourceRefs": [
+      "myanmar_rohingya"
+    ]
+  },
+  {
+    "id": "mmr-8888-uprising",
+    "countryId": "myanmar",
+    "nameKo": "8888 민주화 항쟁",
+    "nameEn": "8888 Uprising",
+    "nameLocal": "၈၈၈၈ အရေးအခင်း",
+    "aliases": [
+      "8888 민주화 항쟁",
+      "8888 Uprising",
+      "၈၈၈၈ အရေးအခင်း",
+      "8888",
+      "pro-democracy"
+    ],
+    "dates": [
+      "08-08"
+    ],
+    "dateWindowDays": 5,
+    "eventType": [
+      "democracy_movement",
+      "state_violence",
+      "memorial"
+    ],
+    "sensitivityLevel": "high",
+    "contexts": [
+      "8888",
+      "pro-democracy",
+      "uprising",
+      "students",
+      "crackdown"
+    ],
+    "stakeholderGroups": [
+      "survivors",
+      "students",
+      "democracy_movement"
+    ],
+    "associatedTermIds": [
+      "mmr-term-8888",
+      "mmr-term-crackdown"
+    ],
+    "associatedSymbolIds": [
+      "mmr-symbol-peacock",
+      "mmr-symbol-three-finger-salute"
+    ],
+    "reviewPolicy": "8888·민주화·진압 표현을 금융 프로모션과 결합하면 high/hold",
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-thingyan",
+    "countryId": "myanmar",
+    "nameKo": "띤잔·미얀마 신년 물축제",
+    "nameEn": "Thingyan Water Festival",
+    "nameLocal": "သင်္ကြန်",
+    "aliases": [
+      "띤잔·미얀마 신년 물축제",
+      "Thingyan Water Festival",
+      "သင်္ကြန်",
+      "water festival",
+      "new year"
+    ],
+    "dates": [
+      "myanmar-new-year"
+    ],
+    "dateWindowDays": 5,
+    "eventType": [
+      "new_year",
+      "water_festival",
+      "buddhist_cultural_holiday"
+    ],
+    "sensitivityLevel": "info",
+    "contexts": [
+      "water festival",
+      "new year",
+      "merit",
+      "family"
+    ],
+    "stakeholderGroups": [
+      "families",
+      "Buddhist_community"
+    ],
+    "associatedTermIds": [
+      "mmr-term-thingyan",
+      "mmr-term-water"
+    ],
+    "associatedSymbolIds": [
+      "mmr-symbol-water-splash",
+      "mmr-symbol-pagoda"
+    ],
+    "reviewPolicy": "명절 프로모션은 가능하나 종교·정치·군부 폭력 문맥과 결합 시 주의",
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  },
+  {
+    "id": "mmr-buddhism-sacred",
+    "countryId": "myanmar",
+    "nameKo": "미얀마 불교·파고다 상징",
+    "nameEn": "Myanmar Buddhism / pagoda",
+    "nameLocal": "ဗုဒ္ဓဘာသာ",
+    "aliases": [
+      "미얀마 불교·파고다 상징",
+      "Myanmar Buddhism / pagoda",
+      "ဗုဒ္ဓဘာသာ",
+      "Buddhism",
+      "monks"
+    ],
+    "dates": [],
+    "dateWindowDays": 0,
+    "eventType": [
+      "religion",
+      "sacred_symbol"
+    ],
+    "sensitivityLevel": "caution",
+    "contexts": [
+      "Buddhism",
+      "monks",
+      "pagoda",
+      "Shwedagon"
+    ],
+    "stakeholderGroups": [
+      "Buddhist_community",
+      "monks"
+    ],
+    "associatedTermIds": [
+      "mmr-term-buddhism",
+      "mmr-term-monk"
+    ],
+    "associatedSymbolIds": [
+      "mmr-symbol-shwedagon",
+      "mmr-symbol-monk"
+    ],
+    "reviewPolicy": "승려·불상·파고다를 금융상품 캐릭터·할인 밈으로 사용하면 hold",
+    "sourceRefs": [
+      "myanmar_coup_overview"
+    ]
+  }
+]

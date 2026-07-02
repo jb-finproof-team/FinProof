@@ -1,0 +1,16 @@
+[
+  {
+    "id": "safe-myanmar-thingyan-transfer",
+    "countryId": "myanmar",
+    "text": "Thingyan new year transfer fee event",
+    "expectedRisk": "info",
+    "reason": "명절 송금 프로모션이며 정치·종교 상징을 희화화하지 않음"
+  },
+  {
+    "id": "safe-myanmar-rohingya-aid",
+    "countryId": "myanmar",
+    "text": "Rohingya humanitarian aid donation account notice",
+    "expectedRisk": "info",
+    "reason": "인권·기부 안내 맥락"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case-thailand-monarchy-commercial-joke",
+    "countryId": "thailand",
+    "title": "왕실·국왕 상징의 금융 프로모션 소재화 리스크",
+    "triggerTerms": [
+      "King",
+      "Article 112",
+      "royal portrait"
+    ],
+    "riskPatternIds": [
+      "monarchy_or_royal_symbol_financial_joke"
+    ],
+    "lesson": "왕실 상징은 금융상품명·캐시백·밈 소재로 사용하지 않는다.",
+    "recommendedAction": "hold",
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  }
+]

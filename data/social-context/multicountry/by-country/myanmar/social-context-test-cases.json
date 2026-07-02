@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mmr-001",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-02-01",
+    "text": "CDM 캐시백 응원 이벤트",
+    "productType": "card",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "reason": "쿠데타 기념일과 시위 상징+금융혜택 결합"
+  },
+  {
+    "id": "mmr-002",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-04-15",
+    "text": "Thingyan 가족 송금 수수료 면제",
+    "productType": "remittance",
+    "channelType": [
+      "app_banner"
+    ],
+    "expectedRiskLevel": "info",
+    "expectedSuggestedAction": "approve",
+    "expectedMatchedRuleIds": [
+      "holiday_financial_promo_safe"
+    ],
+    "reason": "띤잔 명절 송금 안내"
+  },
+  {
+    "id": "mmr-003",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-08-08",
+    "text": "8888급 대출 한도 이벤트",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "country_sensitive_date_trauma_metaphor_finance_promo"
+    ],
+    "reason": "8888 민주화 항쟁 날짜와 대출 이벤트 결합"
+  },
+  {
+    "id": "mmr-004",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-06-01",
+    "text": "Rohingya remittance joke campaign",
+    "productType": "remittance",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "ethnic_conflict_or_refugee_financial_stereotype"
+    ],
+    "reason": "난민/민족 민감 이슈를 마케팅 농담으로 사용"
+  },
+  {
+    "id": "mmr-005",
+    "countryId": "myanmar",
+    "plannedPublishDate": "2026-02-01",
+    "text": "တပ်မတော် loan power event",
+    "productType": "loan",
+    "channelType": [
+      "SNS"
+    ],
+    "expectedRiskLevel": "high",
+    "expectedSuggestedAction": "hold",
+    "expectedMatchedRuleIds": [
+      "political_protest_symbol_financial_promo"
+    ],
+    "reason": "군부 상징을 대출 이벤트로 사용"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "country_sensitive_date_trauma_metaphor_finance_promo",
+    "nameKo": "민감 날짜 + 참사·전쟁 은유 + 금융 홍보 표현",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "myanmar",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "dateMatchesSensitiveEvent": true,
+      "containsSensitiveTermTypeAny": [
+        "genocide_memory",
+        "war_harm",
+        "political_memory_symbol",
+        "state_violence",
+        "humanitarian_visual"
+      ],
+      "containsFinancialPromoTerm": true,
+      "campaignIntentAnyOf": [
+        "promotion",
+        "financial_product_ad"
+      ]
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "민감 사건의 날짜와 관련 표현이 금융상품 혜택·금리·수익률·캐시백 문맥과 결합되어 사회적 고통을 상업적 은유로 소비할 가능성이 큽니다.",
+    "examples": [
+      "4/17 Killing Fields급 수익률",
+      "30/4 Fall-rate 이벤트",
+      "2/1 Coup 금리",
+      "6/4 Tank-rate 혜택"
+    ]
+  },
+  {
+    "id": "sovereignty_map_flag_protocol_error",
+    "nameKo": "주권·지도·국기 프로토콜 오류",
+    "countryIds": [
+      "china"
+    ],
+    "conditions": {
+      "containsSymbolTypeAny": [
+        "sovereignty_sensitive_flag",
+        "sovereignty_sensitive_map"
+      ],
+      "marketingMaterialHasMapOrFlag": true
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "국가·지역 목록, 지도, 국기·엠블럼 표기 오류는 중국 관련 마케팅에서 주권 문제로 확산될 수 있습니다.",
+    "examples": [
+      "Taiwan flag used as country flag",
+      "중국 지도에서 대만 누락",
+      "홍콩/티베트/신장 독립 표기"
+    ]
+  },
+  {
+    "id": "ethnic_conflict_or_refugee_financial_stereotype",
+    "nameKo": "민족·난민·분쟁 피해자 표현 + 금융 고정관념",
+    "countryIds": [
+      "myanmar",
+      "china",
+      "cambodia"
+    ],
+    "conditions": {
+      "containsTermTypeAny": [
+        "ethnic_group_sensitive",
+        "displacement_victim",
+        "ethnic_religious_political_sensitivity"
+      ],
+      "containsFinancialPromoTerm": true
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "민족·난민·분쟁 피해자 집단을 대출·송금·수수료 혜택의 고정관념 소재로 사용하는 것은 차별·인권 리스크가 큽니다.",
+    "examples": [
+      "Rohingya remittance joke",
+      "Uyghur fee event",
+      "Cham loan stereotype"
+    ]
+  },
+  {
+    "id": "political_protest_symbol_financial_promo",
+    "nameKo": "정치 시위 상징 + 금융 프로모션",
+    "countryIds": [
+      "myanmar",
+      "thailand",
+      "china"
+    ],
+    "conditions": {
+      "containsSymbolTypeAny": [
+        "pro_democracy_symbol",
+        "protest_symbol",
+        "political_protest_symbol",
+        "protest_visual"
+      ],
+      "containsFinancialPromoTerm": true
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "시위·정치 운동 상징을 카드 혜택·쿠폰·대출 마케팅 소재로 사용하는 경우 특정 정치 진영 지지 또는 희화화로 해석될 수 있습니다.",
+    "examples": [
+      "three-finger card benefit",
+      "red ribbon cashback",
+      "umbrella loan promo"
+    ]
+  },
+  {
+    "id": "national_symbol_distortion_finance_promo",
+    "nameKo": "국기·국가상징 변형 + 금융 프로모션",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "containsSymbolTypeAny": [
+        "national_flag",
+        "national_symbol",
+        "national_heritage",
+        "national_site"
+      ],
+      "containsFinancialPromoTerm": true,
+      "symbolDistortedOrUsedAsPriceTag": true
+    },
+    "riskLevel": "high",
+    "suggestedAction": "hold",
+    "rationaleTemplate": "국기·국가 유산·국가적 장소를 가격표, 쿠폰, 장난스러운 그래픽으로 변형하면 국가 모욕·브랜드 리스크가 발생할 수 있습니다.",
+    "examples": [
+      "Angkor Wat coupon cutout",
+      "Vietnam flag cashback pattern",
+      "Tiananmen discount graphic"
+    ]
+  },
+  {
+    "id": "holiday_financial_promo_safe",
+    "nameKo": "명절 금융 프로모션 안전 맥락",
+    "countryIds": [
+      "cambodia",
+      "vietnam",
+      "myanmar",
+      "china",
+      "thailand"
+    ],
+    "conditions": {
+      "campaignIntentAnyOf": [
+        "promotion",
+        "financial_product_ad"
+      ],
+      "eventTypeAny": [
+        "family_holiday",
+        "new_year",
+        "water_festival"
+      ],
+      "containsNoSacredMockery": true
+    },
+    "riskLevel": "info",
+    "suggestedAction": "approve",
+    "rationaleTemplate": "명절 송금·카드 혜택·계좌 안내는 가능하나 종교·정치·피해자 조롱 표현이 없는지 확인해야 합니다.",
+    "examples": [
+      "Tet remittance fee discount",
+      "Songkran transfer fee waiver",
+      "Spring Festival red envelope cashback"
+    ]
+  }
+]

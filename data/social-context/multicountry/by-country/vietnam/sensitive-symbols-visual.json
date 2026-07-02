@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vnm-symbol-tank390",
+    "countryId": "vietnam",
+    "labelKo": "390 전차·통일 상징",
+    "labelEn": "Tank 390",
+    "labelLocal": "Xe tăng 390",
+    "aliases": [
+      "Tank 390",
+      "xe tăng 390",
+      "전차"
+    ],
+    "symbolType": "war_victory_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-reunification-day"
+    ],
+    "unsafeContexts": [
+      "card event",
+      "discount mascot"
+    ],
+    "safeContexts": [
+      "역사기념"
+    ],
+    "sourceRefs": [
+      "vietnam_reunification_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-flag",
+    "countryId": "vietnam",
+    "labelKo": "베트남 국기",
+    "labelEn": "Vietnam flag",
+    "labelLocal": "cờ đỏ sao vàng",
+    "aliases": [
+      "Vietnam flag",
+      "red flag yellow star",
+      "베트남 국기"
+    ],
+    "symbolType": "national_flag",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day",
+      "vnm-reunification-day"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor design",
+      "cashback gimmick"
+    ],
+    "safeContexts": [
+      "공식 축하"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-star-flag",
+    "countryId": "vietnam",
+    "labelKo": "황성·붉은 깃발",
+    "labelEn": "Yellow star flag",
+    "labelLocal": "cờ đỏ sao vàng",
+    "aliases": [
+      "yellow star",
+      "red flag",
+      "cờ đỏ sao vàng"
+    ],
+    "symbolType": "national_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeContexts": [
+      "mockery",
+      "cheap sale"
+    ],
+    "safeContexts": [
+      "공식 기념"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-ba-dinh",
+    "countryId": "vietnam",
+    "labelKo": "바딘 광장",
+    "labelEn": "Ba Dinh Square",
+    "labelLocal": "Quảng trường Ba Đình",
+    "aliases": [
+      "Ba Dinh",
+      "바딘"
+    ],
+    "symbolType": "national_site",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-national-day"
+    ],
+    "unsafeContexts": [
+      "discount event"
+    ],
+    "safeContexts": [
+      "역사 설명"
+    ],
+    "sourceRefs": [
+      "vietnam_national_day"
+    ]
+  },
+  {
+    "id": "vnm-symbol-orange-ribbon",
+    "countryId": "vietnam",
+    "labelKo": "주황색·고엽제 연상",
+    "labelEn": "Orange / Agent Orange visual",
+    "labelLocal": "màu da cam",
+    "aliases": [
+      "orange ribbon",
+      "orange smoke",
+      "주황색 고엽제"
+    ],
+    "symbolType": "war_victim_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeContexts": [
+      "cashback theme",
+      "orange discount"
+    ],
+    "safeContexts": [
+      "피해자 지원"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-symbol-war-helicopter",
+    "countryId": "vietnam",
+    "labelKo": "전쟁 헬기·폭격 이미지",
+    "labelEn": "War helicopter / bombing",
+    "labelLocal": "",
+    "aliases": [
+      "helicopter",
+      "bombing",
+      "napalm fire"
+    ],
+    "symbolType": "war_harm_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "vnm-agent-orange-war"
+    ],
+    "unsafeContexts": [
+      "loan bomb",
+      "discount attack"
+    ],
+    "safeContexts": [
+      "역사교육"
+    ],
+    "sourceRefs": [
+      "vietnam_agent_orange"
+    ]
+  },
+  {
+    "id": "vnm-symbol-apricot-blossom",
+    "countryId": "vietnam",
+    "labelKo": "뗏 꽃 장식",
+    "labelEn": "Apricot blossom",
+    "labelLocal": "hoa mai",
+    "aliases": [
+      "hoa mai",
+      "apricot blossom",
+      "yellow blossom"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeContexts": [
+      "funeral parody"
+    ],
+    "safeContexts": [
+      "명절 축하"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-symbol-red-envelope",
+    "countryId": "vietnam",
+    "labelKo": "빨간 봉투",
+    "labelEn": "Red envelope",
+    "labelLocal": "bao lì xì",
+    "aliases": [
+      "red envelope",
+      "lì xì",
+      "세뱃돈 봉투"
+    ],
+    "symbolType": "holiday_money_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "vnm-tet"
+    ],
+    "unsafeContexts": [
+      "gambling"
+    ],
+    "safeContexts": [
+      "명절 혜택"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  },
+  {
+    "id": "vnm-symbol-temple",
+    "countryId": "vietnam",
+    "labelKo": "사원·조상 숭배 장소",
+    "labelEn": "Temple",
+    "labelLocal": "đền",
+    "aliases": [
+      "temple",
+      "đền",
+      "사원"
+    ],
+    "symbolType": "ancestral_religious_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "vnm-hung-kings"
+    ],
+    "unsafeContexts": [
+      "coupon mascot"
+    ],
+    "safeContexts": [
+      "공식 기념"
+    ],
+    "sourceRefs": [
+      "vietnam_public_holidays"
+    ]
+  }
+]

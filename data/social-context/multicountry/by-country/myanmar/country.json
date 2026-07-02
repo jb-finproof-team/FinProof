@@ -1,0 +1,20 @@
+{
+  "countryId": "myanmar",
+  "nameKo": "미얀마",
+  "nameEn": "Myanmar",
+  "nameLocal": "မြန်မာ",
+  "priorityForJB": "A-",
+  "relationshipType": [
+    "overseas_business_possible",
+    "myanmar_language_marketing",
+    "high_political_sensitivity"
+  ],
+  "languages": [
+    "my",
+    "en"
+  ],
+  "businessRationale": "공개 자료상 JB Capital Myanmar 접점 및 미얀마어 고객 콘텐츠 가능성",
+  "sourceRefs": [
+    "jb_group"
+  ]
+}

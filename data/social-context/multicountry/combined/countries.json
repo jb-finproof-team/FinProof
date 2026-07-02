@@ -1,0 +1,107 @@
+[
+  {
+    "countryId": "cambodia",
+    "nameKo": "캄보디아",
+    "nameEn": "Cambodia",
+    "nameLocal": "កម្ពុជា",
+    "priorityForJB": "A",
+    "relationshipType": [
+      "overseas_business",
+      "ppcbank",
+      "khmer_language_marketing"
+    ],
+    "languages": [
+      "km",
+      "en"
+    ],
+    "businessRationale": "JB금융그룹의 캄보디아 PPCBank 접점과 국내외 크메르어 고객 커뮤니케이션 가능성",
+    "sourceRefs": [
+      "jb_ppcbank",
+      "jb_group"
+    ]
+  },
+  {
+    "countryId": "vietnam",
+    "nameKo": "베트남",
+    "nameEn": "Vietnam",
+    "nameLocal": "Việt Nam",
+    "priorityForJB": "A",
+    "relationshipType": [
+      "overseas_business",
+      "jb_securities_vietnam",
+      "domestic_foreign_customer",
+      "vietnamese_language_marketing"
+    ],
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "businessRationale": "JB Securities Vietnam 공개 접점과 한국 내 베트남어 고객층·송금·계좌·카드 안내 필요성",
+    "sourceRefs": [
+      "jb_group"
+    ]
+  },
+  {
+    "countryId": "myanmar",
+    "nameKo": "미얀마",
+    "nameEn": "Myanmar",
+    "nameLocal": "မြန်မာ",
+    "priorityForJB": "A-",
+    "relationshipType": [
+      "overseas_business_possible",
+      "myanmar_language_marketing",
+      "high_political_sensitivity"
+    ],
+    "languages": [
+      "my",
+      "en"
+    ],
+    "businessRationale": "공개 자료상 JB Capital Myanmar 접점 및 미얀마어 고객 콘텐츠 가능성",
+    "sourceRefs": [
+      "jb_group"
+    ]
+  },
+  {
+    "countryId": "china",
+    "nameKo": "중국",
+    "nameEn": "China",
+    "nameLocal": "中国",
+    "priorityForJB": "B",
+    "relationshipType": [
+      "domestic_foreign_customer",
+      "chinese_language_marketing",
+      "high_sovereignty_symbol_sensitivity"
+    ],
+    "languages": [
+      "zh-CN",
+      "zh-TW",
+      "en"
+    ],
+    "businessRationale": "국내 중국어 고객·중국동포·관광/유학/송금 고객 및 지도·국기·주권 표현 리스크 관리",
+    "sourceRefs": [
+      "china_tibet_xinjiang_hk_reuters",
+      "china_taiwan_flag_reuters"
+    ]
+  },
+  {
+    "countryId": "thailand",
+    "nameKo": "태국",
+    "nameEn": "Thailand",
+    "nameLocal": "ประเทศไทย",
+    "priorityForJB": "B",
+    "relationshipType": [
+      "domestic_foreign_customer",
+      "thai_language_marketing",
+      "monarchy_buddhism_sensitivity"
+    ],
+    "languages": [
+      "th",
+      "en"
+    ],
+    "businessRationale": "국내 태국인 고객·송금·외국인 금융서비스 콘텐츠 및 왕실·불교·정치 상징 리스크 관리",
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters",
+      "thailand_lese_majeste_guardian"
+    ]
+  }
+]

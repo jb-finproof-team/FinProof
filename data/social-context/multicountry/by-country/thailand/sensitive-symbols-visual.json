@@ -1,0 +1,272 @@
+[
+  {
+    "id": "tha-symbol-royal-portrait",
+    "countryId": "thailand",
+    "labelKo": "왕실 초상",
+    "labelEn": "Royal portrait",
+    "labelLocal": "พระบรมฉายาลักษณ์",
+    "aliases": [
+      "royal portrait",
+      "king portrait",
+      "왕실 초상"
+    ],
+    "symbolType": "monarchy_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112",
+      "tha-royal-days"
+    ],
+    "unsafeContexts": [
+      "ad parody",
+      "cashback design",
+      "app icon"
+    ],
+    "safeContexts": [
+      "공식 존중"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-symbol-yellow-royal",
+    "countryId": "thailand",
+    "labelKo": "왕실 노란색 상징",
+    "labelEn": "Royal yellow",
+    "labelLocal": "สีเหลือง",
+    "aliases": [
+      "yellow royal color",
+      "왕실 노란색",
+      "สีเหลือง"
+    ],
+    "symbolType": "monarchy_color_symbol",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-monarchy-article112",
+      "tha-royal-days"
+    ],
+    "unsafeContexts": [
+      "political attack",
+      "royal discount"
+    ],
+    "safeContexts": [
+      "공식 행사"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-thai-baht",
+    "countryId": "thailand",
+    "labelKo": "태국 바트화·국왕 초상 지폐",
+    "labelEn": "Thai baht banknote",
+    "labelLocal": "เงินบาท",
+    "aliases": [
+      "Thai baht",
+      "banknote",
+      "지폐",
+      "เงินบาท"
+    ],
+    "symbolType": "currency_royal_image",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-monarchy-article112"
+    ],
+    "unsafeContexts": [
+      "distortion",
+      "floor",
+      "cutout",
+      "meme"
+    ],
+    "safeContexts": [
+      "환전 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_reuters"
+    ]
+  },
+  {
+    "id": "tha-symbol-buddha-head",
+    "countryId": "thailand",
+    "labelKo": "불두·불상 머리",
+    "labelEn": "Buddha head",
+    "labelLocal": "พระเศียรพระพุทธรูป",
+    "aliases": [
+      "Buddha head",
+      "불두",
+      "Buddha image"
+    ],
+    "symbolType": "religious_sacred_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "logo",
+      "coupon",
+      "mascot"
+    ],
+    "safeContexts": [
+      "문화/종교 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-temple",
+    "countryId": "thailand",
+    "labelKo": "태국 사원",
+    "labelEn": "Thai temple",
+    "labelLocal": "วัด",
+    "aliases": [
+      "wat",
+      "temple",
+      "사원"
+    ],
+    "symbolType": "religious_place_visual",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "discount background"
+    ],
+    "safeContexts": [
+      "관광/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-monk",
+    "countryId": "thailand",
+    "labelKo": "승려 이미지",
+    "labelEn": "Monk image",
+    "labelLocal": "พระสงฆ์",
+    "aliases": [
+      "monk image",
+      "승려"
+    ],
+    "symbolType": "religious_person_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-buddhism-sacred"
+    ],
+    "unsafeContexts": [
+      "cashback mascot",
+      "joke"
+    ],
+    "safeContexts": [
+      "종교/문화 안내"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-water-splash",
+    "countryId": "thailand",
+    "labelKo": "물 축제 이미지",
+    "labelEn": "Water splash",
+    "labelLocal": "สาดน้ำ",
+    "aliases": [
+      "water splash",
+      "water gun",
+      "물축제"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeContexts": [
+      "drowning joke"
+    ],
+    "safeContexts": [
+      "송끄란 프로모션"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-floral-shirt",
+    "countryId": "thailand",
+    "labelKo": "송끄란 꽃무늬 셔츠",
+    "labelEn": "Songkran floral shirt",
+    "labelLocal": "เสื้อลายดอก",
+    "aliases": [
+      "floral shirt",
+      "꽃무늬 셔츠"
+    ],
+    "symbolType": "holiday_symbol",
+    "sensitivityLevel": "info",
+    "associatedEventIds": [
+      "tha-songkran"
+    ],
+    "unsafeContexts": [
+      "political color confusion"
+    ],
+    "safeContexts": [
+      "명절 프로모션"
+    ],
+    "sourceRefs": [
+      "thailand_lese_majeste_guardian"
+    ]
+  },
+  {
+    "id": "tha-symbol-three-finger-salute",
+    "countryId": "thailand",
+    "labelKo": "세 손가락 경례",
+    "labelEn": "Three-finger salute",
+    "labelLocal": "ชูสามนิ้ว",
+    "aliases": [
+      "three finger salute",
+      "세 손가락 경례"
+    ],
+    "symbolType": "protest_visual",
+    "sensitivityLevel": "high",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeContexts": [
+      "card benefit pose",
+      "youth promo"
+    ],
+    "safeContexts": [
+      "정치 보도"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  },
+  {
+    "id": "tha-symbol-red-yellow-shirts",
+    "countryId": "thailand",
+    "labelKo": "정치색 셔츠",
+    "labelEn": "Red/yellow shirts",
+    "labelLocal": "เสื้อแดง/เสื้อเหลือง",
+    "aliases": [
+      "red shirt",
+      "yellow shirt",
+      "red/yellow"
+    ],
+    "symbolType": "political_color_visual",
+    "sensitivityLevel": "caution",
+    "associatedEventIds": [
+      "tha-2014-coup-2020-protest"
+    ],
+    "unsafeContexts": [
+      "targeted campaign"
+    ],
+    "safeContexts": [
+      "정치 설명"
+    ],
+    "sourceRefs": [
+      "three_finger_salute"
+    ]
+  }
+]
